@@ -71,7 +71,7 @@ body{
 
 a{
 	font: bold 0.7533333333333em 'DMSans';
-	color: #729bf8;
+	color: #003539;
 	letter-spacing: 0.13em;
 	text-transform: uppercase;
 	text-decoration: none; 
@@ -184,7 +184,7 @@ header #searcharea input[type="search"]{
 
 #ava ul li a:hover{
 	background-color: #003539;
-	color: #fff; 
+	color: #D5EA3B; 
 }
 
 #page{
