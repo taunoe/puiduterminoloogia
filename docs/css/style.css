@@ -1,0 +1,250 @@
+/* v2.0 | 20110126
+http://meyerweb.com/eric/tools/css/reset/
+  License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+html {
+    overflow-y: visible;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/************************ Reset end ***********************************/
+@font-face {
+  font-family: 'Raleway';
+  src: url('../font/Raleway-Regular.woff') format('woff'),
+       url('../font/Raleway-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('../font/Raleway-Bold.woff') format('woff'),
+       url('../font/Raleway-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: bold;
+}
+
+body{
+	background-color: #fff;
+	color: #3a3a3a;
+	font: normal 100% 'Raleway';
+}
+
+a{
+	font: bold 0.7533333333333em 'Raleway';
+	color: #729bf8;
+	letter-spacing: 0.13em;
+	text-transform: uppercase;
+	text-decoration: none; 
+}
+
+b{
+	font-weight: bold;
+}
+
+header{
+	width: 100%;
+	height: 2.8em;
+	padding-top: 1em;
+	background-color: #3d4040;
+	-moz-box-shadow: -4px 4px 15px rgba(163, 163, 163, 0.5); 
+	-webkit-box-shadow: -4px 4px 15px rgba(163, 163, 163, 0.5); 
+	box-shadow: -4px 4px 15px rgba(163, 163, 163, 0.5);
+} 
+
+header #homebutton{
+	float: left;
+	width:10%;
+	padding-left: 0.5em;
+}
+
+header #homebutton #home{
+	background: transparent;
+	border: none;
+}
+
+/* eemaldab sinise raami inoutide ja buttonite ümbert */
+*:focus {
+    outline: 0 !important;
+}
+
+header #menubutton{
+	float: right;
+	width:10%;
+}
+
+header #menubutton a{
+	float: right;
+	padding-right: 1.5em;
+	padding-top: 0.5em;
+}
+
+header #searcharea{
+	display: inline-block;
+	width:75%;
+	height: 2em;
+	margin:auto;
+}
+
+header #searcharea input[type="search"]{
+	width: 100%;
+	height: 2em;
+	border: 1px solid #fff;
+	outline:none;
+}
+
+#linkteave{
+	color:#fff;
+}
+
+#keeled li{
+	display: inline;
+	width: 100%;
+	padding:0;
+	margin: 0;
+}
+
+#keeled li .btn {
+  background: #fff;
+  -webkit-transition: background-color 0.3s ease-out 0.1s;
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 0.6em;
+  color: #474747;
+  border: solid #fff 1px;
+  border-radius: 10px;
+  text-decoration: none;
+  padding:0.6em;
+  margin:0.1;
+}
+
+#keeled li .btn:hover {
+  background: #ece936;
+  text-decoration: none;
+}
+
+#tolked ul {
+	padding-top: 0em;
+	padding-bottom: 1em;
+}
+
+#tolked ul li {
+	font-size: 0.7em;
+}
+
+#container{
+	width:100%;
+	margin: auto;
+}
+
+#ava ul li a{
+	padding: 0.4em;
+	border-radius: 10px;
+	background-color: transparent;
+}
+
+#ava ul li a:hover{
+	background-color: #3d4040;
+	color: #fff; 
+}
+
+#page{
+	width: 80%;
+	padding-top: 0.5em;
+	margin:auto;
+}
+
+#pealkiri{
+	padding-left: 0.2em; 
+	font-size: 2em;
+	text-transform: uppercase; 
+}
+#otsingutulemused ul li{
+	padding: 0.4em;
+}
+
+#otsingutulemused ul li a{
+	padding: 0.4em;
+	border-radius: 10px;
+	background-color: transparent;
+	font-size: 1em;
+}
+
+#otsingutulemused ul li a:hover{
+	background-color: #3d4040;
+	color: #fff; 
+}
+
+.loading{
+	width:128px;
+	margin:auto;
+}
+
+.loading img{
+	width:128px;
+ 	padding-top: 4em;
+ 	margin: auto;
+}
+
+.content{
+	margin: auto;
+	font-size: 1.5em;
+}
+
+.content h1{
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+#kirjeldus{
+	padding-top: 1em;
+}
+
+.lightbox { 
+	display: none; 
+}
+
+.lightbox h2{ 
+	font-size: 2em; 
+}

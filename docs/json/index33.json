@@ -1,0 +1,1826 @@
+[
+		{
+			"i": "3811",
+			"name": "кривошипный механизм"
+		},
+		{
+			"i": "3812",
+			"name": "коленчатый вал"
+		},
+		{
+			"i": "3813",
+			"name": "олифа ж"
+		},
+		{
+			"i": "3814",
+			"name": "свежее волокно ср"
+		},
+		{
+			"i": "3815",
+			"name": "влажность ж свежесрубленной древесины"
+		},
+		{
+			"i": "3816",
+			"name": "плотность ж свежесрубленной древесины"
+		},
+		{
+			"i": "3817",
+			"name": "краска ж"
+		},
+		{
+			"i": "3818",
+			"name": "краситель ж"
+		},
+		{
+			"i": "3819",
+			"name": "миграция красителя ж"
+		},
+		{
+			"i": "3820",
+			"name": "низкая укрывистость краски ж"
+		},
+		{
+			"i": "3821",
+			"name": "шагрень ж"
+		},
+		{
+			"i": "3822",
+			"name": "отслаивание ср"
+		},
+		{
+			"i": "3823",
+			"name": "сопротивление ср выцветанию"
+		},
+		{
+			"i": "3824",
+			"name": "закрепляющий краску"
+		},
+		{
+			"i": "3825",
+			"name": "цветное покрытие"
+		},
+		{
+			"i": "3826",
+			"name": "красить"
+		},
+		{
+			"i": "3827",
+			"name": "минеральный пигмент м"
+		},
+		{
+			"i": "3828",
+			"name": "поправка краски ж"
+		},
+		{
+			"i": "3829",
+			"name": "валик для нанесения краски м"
+		},
+		{
+			"i": "3830",
+			"name": "цветовой тон м"
+		},
+		{
+			"i": "3831",
+			"name": "изменение цветового тона"
+		},
+		{
+			"i": "3832",
+			"name": "цвет"
+		},
+		{
+			"i": "3833",
+			"name": "приспособливание цветового тона с"
+		},
+		{
+			"i": "3834",
+			"name": "цветоустойчивость ж"
+		},
+		{
+			"i": "3835",
+			"name": "порок цвета м"
+		},
+		{
+			"i": "3836",
+			"name": "древесный матерял без пороков цвета м"
+		},
+		{
+			"i": "3837",
+			"name": "испытание ср на усталость"
+		},
+		{
+			"i": "3838",
+			"name": "усталостная трещщина ж"
+		},
+		{
+			"i": "3839",
+			"name": "выносливость, усталочная прочность, сопротивление на усталость"
+		},
+		{
+			"i": "3840",
+			"name": "усталостная прочность ж"
+		},
+		{
+			"i": "3841",
+			"name": "фибра кокосовая"
+		},
+		{
+			"i": "3842",
+			"name": "отделка с ценными породами древесины ж"
+		},
+		{
+			"i": "3843",
+			"name": "древесина ж ценных пород"
+		},
+		{
+			"i": "3844",
+			"name": "шпон м ценных пород древесины"
+		},
+		{
+			"i": "3845",
+			"name": "облагораживать"
+		},
+		{
+			"i": "3846",
+			"name": "ложное ядро с"
+		},
+		{
+			"i": "3847",
+			"name": "серная печь ж"
+		},
+		{
+			"i": "3848",
+			"name": "фугование древесины по пласти"
+		},
+		{
+			"i": "3849",
+			"name": "фуговальный станок"
+		},
+		{
+			"i": "3850",
+			"name": "утончающее пильое полотно"
+		},
+		{
+			"i": "3851",
+			"name": "воздушно-сухое покрытие с"
+		},
+		{
+			"i": "3852",
+			"name": "воздушносухая древесина ж"
+		},
+		{
+			"i": "3853",
+			"name": "воздушная сушка ж"
+		},
+		{
+			"i": "3854",
+			"name": "воздушное распыление"
+		},
+		{
+			"i": "3855",
+			"name": "мелование воздушным шабером"
+		},
+		{
+			"i": "3856",
+			"name": "тонкослойное покрытие с"
+		},
+		{
+			"i": "3857",
+			"name": "тонкие обшивочные доски ж мн"
+		},
+		{
+			"i": "3858",
+			"name": "кондиционер м воздуха"
+		},
+		{
+			"i": "3859",
+			"name": "изоляция ж воздушного шума"
+		},
+		{
+			"i": "3860",
+			"name": "увлажнитель м воздуха"
+		},
+		{
+			"i": "3861",
+			"name": "циpкуляция вoздуxa"
+		},
+		{
+			"i": "3862",
+			"name": "распыление безвоздушное"
+		},
+		{
+			"i": "3863",
+			"name": "вoздуxooбмeн"
+		},
+		{
+			"i": "3864",
+			"name": "соломенная целлюлоза ж"
+		},
+		{
+			"i": "3865",
+			"name": "полимеризация масла ж"
+		},
+		{
+			"i": "3866",
+			"name": "маслянной алкид м"
+		},
+		{
+			"i": "3867",
+			"name": "маслянной лак м"
+		},
+		{
+			"i": "3868",
+			"name": "смола, модифицированная маслом ж"
+		},
+		{
+			"i": "3869",
+			"name": "смасле ж"
+		},
+		{
+			"i": "3870",
+			"name": "пленкообразователь на основе смолы, растворенной в масле ж"
+		},
+		{
+			"i": "3871",
+			"name": "маслянная краска ж"
+		},
+		{
+			"i": "3872",
+			"name": "маслоотделитель"
+		},
+		{
+			"i": "3873",
+			"name": "шов , стержки  "
+		},
+		{
+			"i": "3874",
+			"name": "шов м"
+		},
+		{
+			"i": "3875",
+			"name": "резак для распарывания шва"
+		},
+		{
+			"i": "3876",
+			"name": "паз м, выщербина ж"
+		},
+		{
+			"i": "3877",
+			"name": "наружная мебель ж"
+		},
+		{
+			"i": "3878",
+			"name": "выпадающий сучок м"
+		},
+		{
+			"i": "3879",
+			"name": "токарный резец с полукруглым желобчатым лезвием (рейер)"
+		},
+		{
+			"i": "3880",
+			"name": "токарный резец спрямым желобчатым лезвием"
+		},
+		{
+			"i": "3881",
+			"name": "Полостная сердцевина ж"
+		},
+		{
+			"i": "3882",
+			"name": "резец м расточный"
+		},
+		{
+			"i": "3883",
+			"name": "многопустотная плита ж"
+		},
+		{
+			"i": "3884",
+			"name": "дупло ср, полость ж"
+		},
+		{
+			"i": "3885",
+			"name": "вуалированная отделка ж"
+		},
+		{
+			"i": "3886",
+			"name": "декель"
+		},
+		{
+			"i": "3887",
+			"name": "краевой угол м"
+		},
+		{
+			"i": "3888",
+			"name": "тесьма со шнуром"
+		},
+		{
+			"i": "3889",
+			"name": "прикроватная тумбочка"
+		},
+		{
+			"i": "3890",
+			"name": "нанесение одним слоем с"
+		},
+		{
+			"i": "3891",
+			"name": "соединение ср"
+		},
+		{
+			"i": "3892",
+			"name": "скоба , скрепка соединительная "
+		},
+		{
+			"i": "3893",
+			"name": "планка соединительная, рейка"
+		},
+		{
+			"i": "3894",
+			"name": "одноэтажный пресс м"
+		},
+		{
+			"i": "3895",
+			"name": "единица ж"
+		},
+		{
+			"i": "3896",
+			"name": "фрезерный станок м с верхним расположением шпинделя, копировально-фрезерный станок м"
+		},
+		{
+			"i": "3897",
+			"name": "свес"
+		},
+		{
+			"i": "3898",
+			"name": "передача, передаточный механизм"
+		},
+		{
+			"i": "3899",
+			"name": "напуск м, перекрытие ср"
+		},
+		{
+			"i": "3900",
+			"name": "соединение внахлёстку"
+		},
+		{
+			"i": "3901",
+			"name": "Перегрев м"
+		},
+		{
+			"i": "3902",
+			"name": "верхняя мёртвая точка ж"
+		},
+		{
+			"i": "3903",
+			"name": "избыточноe давление ср"
+		},
+		{
+			"i": "3904",
+			"name": "затопление ср"
+		},
+		{
+			"i": "3905",
+			"name": "покрываемость ж"
+		},
+		{
+			"i": "3906",
+			"name": "кольцевая царга"
+		},
+		{
+			"i": "3907",
+			"name": "вогнутая синка"
+		},
+		{
+			"i": "3908",
+			"name": "закругленный кант м"
+		},
+		{
+			"i": "3909",
+			"name": "круглопалочный фрезерный станок"
+		},
+		{
+			"i": "3910",
+			"name": "круглый стол"
+		},
+		{
+			"i": "3911",
+			"name": "ножевой вал круглый"
+		},
+		{
+			"i": "3912",
+			"name": "круглый сучок м"
+		},
+		{
+			"i": "3913",
+			"name": "шуруп с полукруглой головкой"
+		},
+		{
+			"i": "3914",
+			"name": "болт с полукруглой головкой"
+		},
+		{
+			"i": "3915",
+			"name": "таблица ж объёма кругляка"
+		},
+		{
+			"i": "3916",
+			"name": "кругляк м, круглая древесина ж"
+		},
+		{
+			"i": "3917",
+			"name": "закруглённое ребро ср"
+		},
+		{
+			"i": "3918",
+			"name": "круглосеточная машина ж"
+		},
+		{
+			"i": "3919",
+			"name": "скруглённый шип"
+		},
+		{
+			"i": "3920",
+			"name": "набор м шпона сдвиганим и переворачиваием"
+		},
+		{
+			"i": "3921",
+			"name": "конвертная бумага ж"
+		},
+		{
+			"i": "2",
+			"name": "kolmivaihemoottori"
+		},
+	{
+			"i": "3",
+			"name": "3D-laserskannaus"
+		},
+	{
+			"i": "4",
+			"name": "3D-pinta"
+		},
+	{
+			"i": "5",
+			"name": "kolmeakselinen CNC-kone"
+		},
+	{
+			"i": "6",
+			"name": "tynnyrintekijä"
+		},
+	{
+			"i": "7",
+			"name": "vuosiluston tiheys"
+		},
+	{
+			"i": "8",
+			"name": "Vuosirengas; vuosilusto"
+		},
+	{
+			"i": "9",
+			"name": "abietiinihappo"
+		},
+	{
+			"i": "10",
+			"name": "lisälaitteet, lisävarusteet, apulaitteisto"
+		},
+	{
+			"i": "11",
+			"name": "lisävarusteet"
+		},
+	{
+			"i": "12",
+			"name": "hioma-aine, hankausjauhe"
+		},
+	{
+			"i": "13",
+			"name": "absoluuttisen kuiva, täyskuiva"
+		},
+	{
+			"i": "14",
+			"name": "absoluuttinen kosteus"
+		},
+	{
+			"i": "15",
+			"name": "absorptiotorni"
+		},
+	{
+			"i": "16",
+			"name": "kiinnitymätön paperi, irrokepaperi"
+		},
+	{
+			"i": "17",
+			"name": "additivyhdiste"
+		},
+	{
+			"i": "18",
+			"name": "adsorptio"
+		},
+	{
+			"i": "19",
+			"name": "hiutalekuivuri, hiutalekuivatin"
+		},
+	{
+			"i": "20",
+			"name": "aerosiili"
+		},
+	{
+			"i": "21",
+			"name": "aerosol"
+		},
+	{
+			"i": "22",
+			"name": "setti, kalusto, täydellinen sarja"
+		},
+	{
+			"i": "23",
+			"name": "ampeeri tunnin"
+		},
+	{
+			"i": "24",
+			"name": "pihakaluste"
+		},
+	{
+			"i": "25",
+			"name": "air-mix ruiskutus"
+		},
+	{
+			"i": "26",
+			"name": "aikakauslehtipaperi"
+		},
+	{
+			"i": "27",
+			"name": "sanomalehtipaperi"
+		},
+	{
+			"i": "28",
+			"name": "käyttökoneisto"
+		},
+	{
+			"i": "29",
+			"name": "ajanmäärä"
+		},
+	{
+			"i": "30",
+			"name": ""
+		},
+	{
+			"i": "31",
+			"name": "ikkuna lauta"
+		},
+	{
+			"i": "35",
+			"name": "ikkunan kehys"
+		},
+	{
+			"i": "36",
+			"name": "akryyli pintakäsittely"
+		},
+	{
+			"i": "37",
+			"name": "[tuholaisten] vahingonteko"
+		},
+	{
+			"i": "38",
+			"name": "hyötykloori"
+		},
+	{
+			"i": "39",
+			"name": "vaikuttava alkali"
+		},
+	{
+			"i": "40",
+			"name": "alkali määrä"
+		},
+	{
+			"i": "41",
+			"name": "asiakirjakaappi                                "
+		},
+	{
+			"i": "42",
+			"name": "akkupyörösaha"
+		},
+	{
+			"i": "43",
+			"name": "akustiset ominaisuudet"
+		},
+	{
+			"i": "44",
+			"name": "akkuporakone"
+		},
+	{
+			"i": "45",
+			"name": "akkutyökalut"
+		},
+	{
+			"i": "46",
+			"name": "akvarellipaperi"
+		},
+	{
+			"i": "47",
+			"name": "tasavirtamoottori"
+		},
+	{
+			"i": "48",
+			"name": "alimittainen, vajaamittainen, lyhyt"
+		},
+	{
+			"i": "49",
+			"name": "sekundatavara; hylkytavara, kakkoslaatu"
+		},
+	{
+			"i": "50",
+			"name": "alfaselluloosa"
+		},
+	{
+			"i": "51",
+			"name": "alkydi pintakäsittely"
+		},
+	{
+			"i": "52",
+			"name": "alumiinioksidi"
+		},
+	{
+			"i": "53",
+			"name": "alempi kuolokohta"
+		},
+	{
+			"i": "54",
+			"name": "alusta"
+		},
+	{
+			"i": "56",
+			"name": "kiinteä veitsi"
+		},
+	{
+			"i": "57",
+			"name": "peruspaperi"
+		},
+	{
+			"i": "58",
+			"name": "pinnan esikäsittely"
+		},
+	{
+			"i": "59",
+			"name": "pohjasively, pohjustus"
+		},
+	{
+			"i": "60",
+			"name": "kantotela, alatela"
+		},
+	{
+			"i": "61",
+			"name": "pohjamaali"
+		},
+	{
+			"i": "62",
+			"name": "ammoniumpohjainen keittoliemi"
+		},
+	{
+			"i": "64",
+			"name": "dekkeli, arkkikehilön kehys"
+		},
+	{
+			"i": "66",
+			"name": "aniliiniväri"
+		},
+	{
+			"i": "67",
+			"name": "anisotrooppisuus"
+		},
+	{
+			"i": "68",
+			"name": "epäorgaaninen pigmentti"
+		},
+	{
+			"i": "69",
+			"name": "epäorgaaninen pintakäsittely"
+		},
+	{
+			"i": "70",
+			"name": "antiikkikalusto"
+		},
+	{
+			"i": "73",
+			"name": "antiseptinen aine, säilytysaine"
+		},
+	{
+			"i": "74",
+			"name": "Suojakerros, lahonestomaali"
+		},
+	{
+			"i": "76",
+			"name": "antistaattinen lisäaine"
+		},
+	{
+			"i": "78",
+			"name": "antropometria"
+		},
+	{
+			"i": "79",
+			"name": "autooksidaatio"
+		},
+	{
+			"i": "80",
+			"name": "laite, koje"
+		},
+	{
+			"i": "82",
+			"name": "applikaatio"
+		},
+	{
+			"i": "83",
+			"name": "tartuntaaine"
+		},
+	{
+			"i": "84",
+			"name": "arabinogalaktaani"
+		},
+	{
+			"i": "85",
+			"name": "Arkansas öljyhiomakivi"
+		},
+	{
+			"i": "86",
+			"name": "teräsvahvikkeet ja -siteet rakenteissa"
+		},
+	{
+			"i": "87",
+			"name": "rakotulkki, mittapala"
+		},
+	{
+			"i": "88",
+			"name": "monivaihekeitto"
+		},
+	{
+			"i": "89",
+			"name": "monivaihevalkaisu"
+		},
+	{
+			"i": "90",
+			"name": "pitkä nivelsarana, pöydän jatkolevyn sarana"
+		},
+	{
+			"i": "91",
+			"name": "epätahtimoottori"
+		},
+	{
+			"i": "92",
+			"name": "ilmanpaine"
+		},
+	{
+			"i": "93",
+			"name": "ilmakuivaus, lautatarhakuivaus"
+		},
+	{
+			"i": "94",
+			"name": "asetaattikuidu"
+		},
+	{
+			"i": "95",
+			"name": "asetylointi"
+		},
+	{
+			"i": "96",
+			"name": "asetaattisellu"
+		},
+	{
+			"i": "97",
+			"name": "reikärauta"
+		},
+	{
+			"i": "98",
+			"name": "reikäsaha"
+		},
+	{
+			"i": "99",
+			"name": "höyrytaivutus"
+		},
+	{
+			"i": "100",
+			"name": "höyrynkehitin"
+		},
+	{
+			"i": "102",
+			"name": "höyrysysäys"
+		},
+	{
+			"i": "104",
+			"name": "höyrykammio"
+		},
+	{
+			"i": "105",
+			"name": "haihduttamo"
+		},
+	{
+			"i": "106",
+			"name": "höyrykanava"
+		},
+	{
+			"i": "107",
+			"name": "painekyllästys"
+		},
+	{
+			"i": "108",
+			"name": "automaatio-ohjausjärjestelmä"
+		},
+	{
+			"i": "109",
+			"name": "automaattinen linja"
+		},
+	{
+			"i": "110",
+			"name": "tietokoneohjattava automaatinen kankaanleikkuri"
+		},
+	{
+			"i": "111",
+			"name": "hakkuri, lastuhakkukone ?"
+		},
+	{
+			"i": "112",
+			"name": "automaattinen ruiskutus"
+		},
+	{
+			"i": "113",
+			"name": "automaattikone"
+		},
+	{
+			"i": "114",
+			"name": "julkiskaluste(et)"
+		},
+	{
+			"i": "116",
+			"name": "reikäkantajärjestelmä"
+		},
+	{
+			"i": "118",
+			"name": "baarikaappi"
+		},
+	{
+			"i": "119",
+			"name": "peruspinta"
+		},
+	{
+			"i": "120",
+			"name": "puuaineen tiheys"
+		},
+	{
+			"i": "121",
+			"name": "tasapainotuslaite, tasapainotusalusta"
+		},
+	{
+			"i": "122",
+			"name": "tasapainotuskara"
+		},
+	{
+			"i": "123",
+			"name": "pikakatkaisusaha"
+		},
+	{
+			"i": "124",
+			"name": "pylvässänky"
+		},
+	{
+			"i": "125",
+			"name": "pylvässänky"
+		},
+	{
+			"i": "126",
+			"name": "balsa"
+		},
+	{
+			"i": "127",
+			"name": "balsapuu"
+		},
+	{
+			"i": "130",
+			"name": "barokkityyli"
+		},
+	{
+			"i": "131",
+			"name": "keskitys"
+		},
+	{
+			"i": "132",
+			"name": "keskitinlaite, keskityslaite"
+		},
+	{
+			"i": "133",
+			"name": "betaselluloosa"
+		},
+	{
+			"i": "134",
+			"name": "biidermeiertyyli"
+		},
+	{
+			"i": "135",
+			"name": "bimetallikattila"
+		},
+	{
+			"i": "137",
+			"name": "biodiesel"
+		},
+	{
+			"i": "138",
+			"name": "bioetanoli"
+		},
+	{
+			"i": "139",
+			"name": "biologinen hajoama, biohajoama ??"
+		},
+	{
+			"i": "140",
+			"name": "biokemiallinen hapenkulutus"
+		},
+	{
+			"i": "141",
+			"name": "biokemiallinen muokkaus"
+		},
+	{
+			"i": "142",
+			"name": "biolieju"
+		},
+	{
+			"i": "143",
+			"name": "lukituslaite, sulku"
+		},
+	{
+			"i": "144",
+			"name": "lukkiutumisen estokytkin"
+		},
+	{
+			"i": "145",
+			"name": "bombeeraus"
+		},
+	{
+			"i": "146",
+			"name": "joustinpatja"
+		},
+	{
+			"i": "147",
+			"name": "iskua minuutissa"
+		},
+	{
+			"i": "148",
+			"name": "briketöinti"
+		},
+	{
+			"i": "149",
+			"name": "brikettipuristin"
+		},
+	{
+			"i": "150",
+			"name": "briketti"
+		},
+	{
+			"i": "151",
+			"name": "bubinga, "
+		},
+	{
+			"i": "152",
+			"name": "modifioitu aminohartsi pinnoite ??"
+		},
+	{
+			"i": "153",
+			"name": "toimistopöytä,  työpöytä"
+		},
+	{
+			"i": "154",
+			"name": "konttorikalusteet, toimistokalusteet"
+		},
+	{
+			"i": "155",
+			"name": "tietokoneavusteinen suunnittelu"
+		},
+	{
+			"i": "156",
+			"name": "CAD/CAM järjestelmä"
+		},
+	{
+			"i": "157",
+			"name": "tietokoneavusteinen valmistus"
+		},
+	{
+			"i": "159",
+			"name": "G-puristin"
+		},
+	{
+			"i": "160",
+			"name": "CNC jyrsinkone"
+		},
+	{
+			"i": "161",
+			"name": "CNC porakone"
+		},
+	{
+			"i": "162",
+			"name": "CNC kone,  keskusyksikkö"
+		},
+	{
+			"i": "164",
+			"name": "Brasilian palisanteri"
+		},
+	{
+			"i": "165",
+			"name": "Palisanteri"
+		},
+	{
+			"i": "166",
+			"name": "damasti"
+		},
+	{
+			"i": "168",
+			"name": "kuidutin"
+		},
+	{
+			"i": "169",
+			"name": "hiomakone"
+		},
+	{
+			"i": "170",
+			"name": "hionta allas"
+		},
+	{
+			"i": "171",
+			"name": "hiomakivi"
+		},
+	{
+			"i": "172",
+			"name": "hiomakiven teroitus"
+		},
+	{
+			"i": "173",
+			"name": "hioke"
+		},
+	{
+			"i": "174",
+			"name": "deformaatio, muodonmuutos"
+		},
+	{
+			"i": "175",
+			"name": "koriste-elementti"
+		},
+	{
+			"i": "176",
+			"name": "koristelaminaatti"
+		},
+	{
+			"i": "177",
+			"name": "koristepinnoitus"
+		},
+	{
+			"i": "178",
+			"name": "koristeviilu, pintaviilu"
+		},
+	{
+			"i": "179",
+			"name": "sisustusvaneri"
+		},
+	{
+			"i": "180",
+			"name": "delignifiointi"
+		},
+	{
+			"i": "181",
+			"name": "deltapuu"
+		},
+	{
+			"i": "182",
+			"name": "keinonahka"
+		},
+	{
+			"i": "183",
+			"name": "desintegraattori, lastuaja"
+		},
+	{
+			"i": "184",
+			"name": "työkappale "
+		},
+	{
+			"i": "185",
+			"name": "nimellismitta"
+		},
+	{
+			"i": "186",
+			"name": "tosimitta"
+		},
+	{
+			"i": "189",
+			"name": "vinoneliökuvio"
+		},
+	{
+			"i": "190",
+			"name": "poikittaisjäykiste, poikittaislista, "
+		},
+	{
+			"i": "192",
+			"name": "diffuusiokyllästys"
+		},
+	{
+			"i": "193",
+			"name": "diffuusiokyllästys"
+		},
+	{
+			"i": "194",
+			"name": "diffuusiopesu"
+		},
+	{
+			"i": "195",
+			"name": "diffusööripesuri"
+		},
+	{
+			"i": "196",
+			"name": "digitalisointipöytä"
+		},
+	{
+			"i": "197",
+			"name": "sohva"
+		},
+	{
+			"i": "198",
+			"name": "sohva"
+		},
+	{
+			"i": "199",
+			"name": "sohvapöytä"
+		},
+	{
+			"i": "201",
+			"name": "vuodesohva"
+		},
+	{
+			"i": "202",
+			"name": "vuodesohva"
+		},
+	{
+			"i": "203",
+			"name": "dimeeri rasvahappo"
+		},
+	{
+			"i": "205",
+			"name": "dispersiomaali"
+		},
+	{
+			"i": "207",
+			"name": "annostelija"
+		},
+	{
+			"i": "208",
+			"name": "mittasiilo, annostelusiilo"
+		},
+	{
+			"i": "210",
+			"name": "säkkijousi"
+		},
+	{
+			"i": "211",
+			"name": "dynaaminen tasapainotus"
+		},
+	{
+			"i": "212",
+			"name": "suutin, suulake"
+		},
+	{
+			"i": "213",
+			"name": "suihkuputki kuivain"
+		},
+	{
+			"i": "214",
+			"name": "douglaskuusi"
+		},
+	{
+			"i": "215",
+			"name": "vaihteleva kuviointi"
+		},
+	{
+			"i": "217",
+			"name": "eebenpuu"
+		},
+	{
+			"i": "218",
+			"name": "Eebenpuu, eebeniholtsi"
+		},
+	{
+			"i": "219",
+			"name": "esihydrolyysi"
+		},
+	{
+			"i": "220",
+			"name": "esiasennus"
+		},
+	{
+			"i": "221",
+			"name": "esipuristin"
+		},
+	{
+			"i": "222",
+			"name": "esivärjätty pinta"
+		},
+	{
+			"i": "223",
+			"name": "esikäsittely"
+		},
+	{
+			"i": "224",
+			"name": "esikäsittelyhöylä"
+		},
+	{
+			"i": "225",
+			"name": "poistettavissa oleva pinnoite, väliaikeinen suojapinnoite, irrokepinnoite"
+		},
+	{
+			"i": "226",
+			"name": "uloke"
+		},
+	{
+			"i": "227",
+			"name": "hiippa"
+		},
+	{
+			"i": "228",
+			"name": "kulmauskouru"
+		},
+	{
+			"i": "229",
+			"name": "lohenpyrstöliitos"
+		},
+	{
+			"i": "230",
+			"name": "salasinkkaliitos"
+		},
+	{
+			"i": "231",
+			"name": "jiirilaatikko, kulmasahauslaatikko"
+		},
+	{
+			"i": "232",
+			"name": "jiirisaha"
+		},
+	{
+			"i": "233",
+			"name": "jiirilaatikko"
+		},
+	{
+			"i": "234",
+			"name": "jiiri, viistekulmakko"
+		},
+	{
+			"i": "235",
+			"name": "jiiriliitos"
+		},
+	{
+			"i": "236",
+			"name": "pääprojektio"
+		},
+	{
+			"i": "237",
+			"name": "tehollinen alkali"
+		},
+	{
+			"i": "238",
+			"name": "kohokuviokoriste"
+		},
+	{
+			"i": "239",
+			"name": "koristenaula"
+		},
+	{
+			"i": "240",
+			"name": "koristenaru"
+		},
+	{
+			"i": "241",
+			"name": "koristenauha"
+		},
+	{
+			"i": "242",
+			"name": "rakennuspahvi"
+		},
+	{
+			"i": "243",
+			"name": "rakennuspuutavara"
+		},
+	{
+			"i": "244",
+			"name": "rakennusvaneri"
+		},
+	{
+			"i": "245",
+			"name": "varjostin"
+		},
+	{
+			"i": "247",
+			"name": "loppukäyttökosteus"
+		},
+	{
+			"i": "248",
+			"name": "uutos"
+		},
+	{
+			"i": "249",
+			"name": "uuteaine"
+		},
+	{
+			"i": "250",
+			"name": "uuteaineet"
+		},
+	{
+			"i": "251",
+			"name": "pursotepäällystys"
+		},
+	{
+			"i": "253",
+			"name": "suulakepuristettu levy"
+		},
+	{
+			"i": "254",
+			"name": "suulakepuristin"
+		},
+	{
+			"i": "255",
+			"name": "epäkesko, epäkeskokiinnitin"
+		},
+	{
+			"i": "256",
+			"name": "pyörivä epäkeskohiomakone"
+		},
+	{
+			"i": "258",
+			"name": "epäkeskoruuvipuristin"
+		},
+	{
+			"i": "259",
+			"name": "epäkeskohela"
+		},
+	{
+			"i": "260",
+			"name": "epäkeskoliitos liitostapilla"
+		},
+	{
+			"i": "261",
+			"name": "epäkesko spiraaliruuvi"
+		},
+	{
+			"i": "262",
+			"name": "elastinen pinnoite"
+		},
+	{
+			"i": "263",
+			"name": "elastinen puristinelementti"
+		},
+	{
+			"i": "264",
+			"name": "elastisuus"
+		},
+	{
+			"i": "265",
+			"name": "sähköinen käsihöylä"
+		},
+	{
+			"i": "266",
+			"name": "sähköeriste"
+		},
+	{
+			"i": "267",
+			"name": "sähkönjohtavuus"
+		},
+	{
+			"i": "268",
+			"name": "ketjutalttakone"
+		},
+	{
+			"i": "269",
+			"name": "sähköruuvimeisseli"
+		},
+	{
+			"i": "270",
+			"name": "sähköleikkuri"
+		},
+	{
+			"i": "272",
+			"name": "sähköporakone"
+		},
+	{
+			"i": "273",
+			"name": "sähkötyöt"
+		},
+	{
+			"i": "274",
+			"name": "sähkötyökalu"
+		},
+	{
+			"i": "275",
+			"name": "korundi"
+		},
+	{
+			"i": "277",
+			"name": "elektroninen jarrujärjestelmä"
+		},
+	{
+			"i": "278",
+			"name": "sähköstaattinen ruiskutus"
+		},
+	{
+			"i": "279",
+			"name": "elektrostaattinen sirottelu"
+		},
+	{
+			"i": "280",
+			"name": "Tuija,  Elämänpuu"
+		},
+	{
+			"i": "281",
+			"name": "olohuoneen kalusteet"
+		},
+	{
+			"i": "282",
+			"name": "emalointi"
+		},
+	{
+			"i": "283",
+			"name": "emalimaali"
+		},
+	{
+			"i": "284",
+			"name": "emulsiomaali"
+		},
+	{
+			"i": "285",
+			"name": "ehätyskulma"
+		},
+	{
+			"i": "286",
+			"name": "entsyyminen hydrolyysi"
+		},
+	{
+			"i": "287",
+			"name": "entsyymivalkaisu"
+		},
+	{
+			"i": "288",
+			"name": "joustinpatja metallireunuksella"
+		},
+	{
+			"i": "289",
+			"name": "epoksipinnoite"
+		},
+	{
+			"i": "290",
+			"name": "epoksiliima"
+		},
+	{
+			"i": "291",
+			"name": "epoksihartsi"
+		},
+	{
+			"i": "292",
+			"name": "erottelu, erottaminen"
+		},
+	{
+			"i": "293",
+			"name": "sohvatyyny"
+		},
+	{
+			"i": "294",
+			"name": "sohvatyyny"
+		},
+	{
+			"i": "295",
+			"name": "ergonomia"
+		},
+	{
+			"i": "296",
+			"name": "ominaispaino"
+		},
+	{
+			"i": "297",
+			"name": "eteiskalusteet"
+		},
+	{
+			"i": "298",
+			"name": "rintakulma"
+		},
+	{
+			"i": "300",
+			"name": "rintakulma"
+		},
+	{
+			"i": "301",
+			"name": "ensiapukaappi"
+		},
+	{
+			"i": "302",
+			"name": "esikatkaisu, aihioiden leikkaus"
+		},
+	{
+			"i": "303",
+			"name": "ramppi"
+		},
+	{
+			"i": "304",
+			"name": "korjausmitta"
+		},
+	{
+			"i": "305",
+			"name": "vertailuarkki, referenssiarkki"
+		},
+	{
+			"i": "306",
+			"name": "etikettipaperi"
+		},
+	{
+			"i": "308",
+			"name": "kelkalla varustettu jyrsinkone"
+		},
+	{
+			"i": "309",
+			"name": "syöttökisko"
+		},
+	{
+			"i": "310",
+			"name": "makasiinisyöttölaite"
+		},
+	{
+			"i": "311",
+			"name": "syöttölaite"
+		},
+	{
+			"i": "312",
+			"name": "syöttötela, rullapöytä"
+		},
+	{
+			"i": "313",
+			"name": "syöttö"
+		},
+	{
+			"i": "314",
+			"name": "kaatolovi, alta leikattu"
+		},
+	{
+			"i": "315",
+			"name": "etuleikkuri"
+		},
+	{
+			"i": "316",
+			"name": "piirtoterä"
+		},
+	{
+			"i": "317",
+			"name": "syöttö "
+		},
+	{
+			"i": "318",
+			"name": "syöttönopeus (mm/isku)"
+		},
+	{
+			"i": "319",
+			"name": "syöttömekanismi"
+		},
+	{
+			"i": "320",
+			"name": "syöttönopeus"
+		},
+	{
+			"i": "322",
+			"name": "valmennustehdaosasto"
+		},
+	{
+			"i": "323",
+			"name": "yritys, firma"
+		},
+	{
+			"i": "324",
+			"name": "etanoli, etyylialkoholi"
+		},
+	{
+			"i": "326",
+			"name": "särmä, viiste"
+		},
+	{
+			"i": "327",
+			"name": "viistejyrsin"
+		},
+	{
+			"i": "330",
+			"name": "viistotus, viiste, pyöristys"
+		},
+	{
+			"i": "331",
+			"name": "V-ura"
+		},
+	{
+			"i": "332",
+			"name": "fenolihartsiliima"
+		},
+	{
+			"i": "333",
+			"name": "fenyylipropaaniyksiko"
+		},
+	{
+			"i": "334",
+			"name": "fibrilli"
+		},
+	{
+			"i": "335",
+			"name": "fibrillaarinen"
+		},
+	{
+			"i": "336",
+			"name": "fibrillointi"
+		},
+	{
+			"i": "337",
+			"name": "kiinnitin"
+		},
+	{
+			"i": "338",
+			"name": "suodatinpaperi"
+		},
+	{
+			"i": "339",
+			"name": "tasoitus"
+		},
+	{
+			"i": "340",
+			"name": "suodatinpesu"
+		},
+	{
+			"i": "341",
+			"name": "flokkauduminenpuhdistin"
+		},
+	{
+			"i": "342",
+			"name": "koko, muoto"
+		},
+	{
+			"i": "343",
+			"name": "paloittelusaha"
+		},
+	{
+			"i": "344",
+			"name": "paloittelusahaus"
+		},
+	{
+			"i": "345",
+			"name": "formaldehydipäästö"
+		},
+	{
+			"i": "346",
+			"name": "valokäynnistetty kuivaus"
+		},
+	{
+			"i": "347",
+			"name": "fotolyysi"
+		},
+	{
+			"i": "348",
+			"name": "fotosynteesi"
+		},
+	{
+			"i": "350",
+			"name": "jyrsin"
+		},
+	{
+			"i": "353",
+			"name": "jyrsintä"
+		},
+	{
+			"i": "354",
+			"name": "pelkkahakkuri"
+		},
+	{
+			"i": "355",
+			"name": "särmäyskurso"
+		},
+	{
+			"i": "356",
+			"name": "jyrsinterä"
+		},
+	{
+			"i": "357",
+			"name": "jyrsinterän teroituskone"
+		},
+	{
+			"i": "358",
+			"name": "jyrsin ketju"
+		},
+	{
+			"i": "359",
+			"name": "jyrsinpää"
+		},
+	{
+			"i": "360",
+			"name": "jyrsinkone"
+		},
+	{
+			"i": "361",
+			"name": "(jyrsin)teräpakka"
+		},
+	{
+			"i": "364",
+			"name": "kaluste, huonekalu"
+		},
+	{
+			"i": "365",
+			"name": "fysikaaliset ominaisuudet"
+		},
+	{
+			"i": "366",
+			"name": "fysikaalisesti kovettuva pinnoite"
+		},
+	{
+			"i": "367",
+			"name": "kaasugeneraattori"
+		},
+	{
+			"i": "368",
+			"name": "kaasunpoisto"
+		},
+	{
+			"i": "369",
+			"name": "hiilimusta"
+		},
+	{
+			"i": "370",
+			"name": "kaasunkuivuri"
+		},
+	{
+			"i": "371",
+			"name": "ulkomitta"
+		},
+	{
+			"i": "372",
+			"name": "gammaselluloosa"
+		},
+	{
+			"i": "373",
+			"name": "huopautuspuristin"
+		},
+	{
+			"i": "374",
+			"name": "hyytelömaali"
+		},
+	{
+			"i": "375",
+			"name": "geometrinen tarkkuus"
+		},
+	{
+			"i": "376",
+			"name": "giljotiinileikkuri, leikkuri"
+		},
+	{
+			"i": "377",
+			"name": "Lasite, lasitus"
+		},
+	{
+			"i": "378",
+			"name": "glukomannaani"
+		},
+	{
+			"i": "379",
+			"name": "glukoosi"
+		},
+	{
+			"i": "380",
+			"name": "glukoosisidos"
+		},
+	{
+			"i": "381",
+			"name": "kuvakudos"
+		},
+	{
+			"i": "382",
+			"name": "grafiittimaali"
+		},
+	{
+			"i": "383",
+			"name": "granaatti"
+		},
+	{
+			"i": "384",
+			"name": "pelletoimiskone, pelletoimislaite"
+		},
+	{
+			"i": "385",
+			"name": "painovoima sirottelu"
+		},
+	{
+			"i": "386",
+			"name": "guajakkipuu"
+		},
+	{
+			"i": "388",
+			"name": "haapa"
+		},
+	{
+			"i": "389",
+			"name": "vasara"
+		},
+	{
+			"i": "391",
+			"name": "sorkka"
+		},
+	{
+			"i": "392",
+			"name": "kahmari"
+		},
+	{
+			"i": "393",
+			"name": "puristimet tartu pituus"
+		}
+]

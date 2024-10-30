@@ -1,0 +1,1986 @@
+[
+{
+			"i": "2403",
+			"name": "profiili"
+		},
+	{
+			"i": "2404",
+			"name": "muotojyrsintä"
+		},
+	{
+			"i": "2405",
+			"name": "muotojyrsin"
+		},
+	{
+			"i": "2406",
+			"name": "muotohöyläys"
+		},
+	{
+			"i": "2407",
+			"name": "oletusmitta"
+		},
+	{
+			"i": "2408",
+			"name": "mittausjakso"
+		},
+	{
+			"i": "2409",
+			"name": ""
+		},
+	{
+			"i": "2410",
+			"name": "muotohöylän terä"
+		},
+	{
+			"i": "2411",
+			"name": "profiilihiomakone"
+		},
+	{
+			"i": "2412",
+			"name": "muototerä"
+		},
+	{
+			"i": "2413",
+			"name": ""
+		},
+	{
+			"i": "2414",
+			"name": "profiloiminen, profilointi"
+		},
+	{
+			"i": "2415",
+			"name": "profilomittari"
+		},
+	{
+			"i": "2416",
+			"name": "ohjelmoitu ohjausjärjestelmä"
+		},
+	{
+			"i": "2417",
+			"name": "pronssi"
+		},
+	{
+			"i": "2418",
+			"name": "propsi"
+		},
+	{
+			"i": "2419",
+			"name": "protoligniini"
+		},
+	{
+			"i": "2420",
+			"name": "protoplasma"
+		},
+	{
+			"i": "2421",
+			"name": "tappi, puunaula, puutappi"
+		},
+	{
+			"i": "2422",
+			"name": "parru, pelkka"
+		},
+	{
+			"i": "2423",
+			"name": "jakosahaus"
+		},
+	{
+			"i": "2424",
+			"name": "pelkkasaha"
+		},
+	{
+			"i": "2425",
+			"name": "jakosaha"
+		},
+	{
+			"i": "2426",
+			"name": "pelkka"
+		},
+	{
+			"i": "2427",
+			"name": "ruskea puumassa"
+		},
+	{
+			"i": "2428",
+			"name": "ruskotäpläisyys"
+		},
+	{
+			"i": "2429",
+			"name": "ruskolaho"
+		},
+	{
+			"i": "2430",
+			"name": "haitteet"
+		},
+	{
+			"i": "2431",
+			"name": "roskaluku"
+		},
+	{
+			"i": "2432",
+			"name": ""
+		},
+	{
+			"i": "2433",
+			"name": "kuivan ja kostean lämpömittarin näyttämän ero"
+		},
+	{
+			"i": "2434",
+			"name": "hyväksytty massaliete"
+		},
+	{
+			"i": "2435",
+			"name": "tasoitushöyläys"
+		},
+	{
+			"i": "2436",
+			"name": "puhdas kuorinta"
+		},
+	{
+			"i": "2437",
+			"name": "täyspuhdistus"
+		},
+	{
+			"i": "2438",
+			"name": ""
+		},
+	{
+			"i": "2439",
+			"name": "loppupaksuus"
+		},
+	{
+			"i": "2440",
+			"name": "?"
+		},
+	{
+			"i": "2441",
+			"name": "silityssorvaus"
+		},
+	{
+			"i": "2442",
+			"name": "höyläsaha"
+		},
+	{
+			"i": "2443",
+			"name": "astiakaappi"
+		},
+	{
+			"i": "2444",
+			"name": "puun autohydrolyysi"
+		},
+	{
+			"i": "2445",
+			"name": "puun rakenne, puun anatomia"
+		},
+	{
+			"i": "2446",
+			"name": "puun hydrolyysi"
+		},
+	{
+			"i": "2447",
+			"name": "puun kemiallinen käsittely"
+		},
+	{
+			"i": "2448",
+			"name": ""
+		},
+	{
+			"i": "2449",
+			"name": "kuutiointi"
+		},
+	{
+			"i": "2450",
+			"name": "puuaineksen makrorakenne"
+		},
+	{
+			"i": "2451",
+			"name": "puuaineksen mikrorakenne"
+		},
+	{
+			"i": "2452",
+			"name": "puun pyrolyysi"
+		},
+	{
+			"i": "2453",
+			"name": "pyrolyysi, kuivatislaus"
+		},
+	{
+			"i": "2454",
+			"name": "hiiltynyt puu"
+		},
+	{
+			"i": "2455",
+			"name": "puun tummeneminen"
+		},
+	{
+			"i": "2456",
+			"name": ""
+		},
+	{
+			"i": "2457",
+			"name": "puujauho"
+		},
+	{
+			"i": "2458",
+			"name": "jätepuu"
+		},
+	{
+			"i": "2459",
+			"name": "puutuotteet, puutavara"
+		},
+	{
+			"i": "2460",
+			"name": "puukemia"
+		},
+	{
+			"i": "2461",
+			"name": "puuruuvi"
+		},
+	{
+			"i": "2462",
+			"name": "lautatarha, puuvarasto"
+		},
+	{
+			"i": "2463",
+			"name": ""
+		},
+	{
+			"i": "2464",
+			"name": "naskali"
+		},
+	{
+			"i": "2465",
+			"name": ""
+		},
+	{
+			"i": "2466",
+			"name": "petsi"
+		},
+	{
+			"i": "2467",
+			"name": ""
+		},
+	{
+			"i": "2468",
+			"name": "puusolu"
+		},
+	{
+			"i": "2469",
+			"name": "puutavaran viat"
+		},
+	{
+			"i": "2470",
+			"name": "puuhiilen aktivaatio"
+		},
+	{
+			"i": "2471",
+			"name": "puuhiili"
+		},
+	{
+			"i": "2472",
+			"name": "puun raaka-aineoppi, puutiede"
+		},
+	{
+			"i": "2473",
+			"name": "puupöly"
+		},
+	{
+			"i": "2474",
+			"name": "puuterva"
+		},
+	{
+			"i": "2475",
+			"name": ""
+		},
+	{
+			"i": "2476",
+			"name": "puuteollisuus"
+		},
+	{
+			"i": "2477",
+			"name": "puutyöläinen"
+		},
+	{
+			"i": "2478",
+			"name": "puuteollisuus, puuntyöstö, puunjalostus"
+		},
+	{
+			"i": "2479",
+			"name": "puuteollisuuden jätteet"
+		},
+	{
+			"i": "2480",
+			"name": "puutekniikkaa"
+		},
+	{
+			"i": "2481",
+			"name": "puutyöläinen"
+		},
+	{
+			"i": "2482",
+			"name": "puuteollisuus"
+		},
+	{
+			"i": "2483",
+			"name": "puun pintakäsittely"
+		},
+	{
+			"i": "2484",
+			"name": ""
+		},
+	{
+			"i": "2485",
+			"name": "irtotiheys"
+		},
+	{
+			"i": "2486",
+			"name": "irtokuutiometri"
+		},
+	{
+			"i": "2487",
+			"name": "puutavara"
+		},
+	{
+			"i": "2488",
+			"name": "puuaineksen tiheys"
+		},
+	{
+			"i": "2489",
+			"name": "kiila"
+		},
+	{
+			"i": "2490",
+			"name": "kuitulevy"
+		},
+	{
+			"i": "2491",
+			"name": "lastulevy"
+		},
+	{
+			"i": "2492",
+			"name": "laipionpuupäällys"
+		},
+	{
+			"i": "2493",
+			"name": "mekaaninen massa"
+		},
+	{
+			"i": "2494",
+			"name": "puuvapaa paperi"
+		},
+	{
+			"i": "2495",
+			"name": "puupitoinen paperi"
+		},
+	{
+			"i": "2496",
+			"name": "puiset huonekalut"
+		},
+	{
+			"i": "2497",
+			"name": "tappi, puunaula"
+		},
+	{
+			"i": "2498",
+			"name": ""
+		},
+	{
+			"i": "2499",
+			"name": "levyjen kalibrointi"
+		},
+	{
+			"i": "2500",
+			"name": "puulattia"
+		},
+	{
+			"i": "2501",
+			"name": "rima, säle"
+		},
+	{
+			"i": "2502",
+			"name": "seinänpuupäällys"
+		},
+	{
+			"i": "2503",
+			"name": "puurakennelma"
+		},
+	{
+			"i": "2504",
+			"name": "puutuotteet"
+		},
+	{
+			"i": "2505",
+			"name": "puutuminen"
+		},
+	{
+			"i": "2506",
+			"name": "puuvasara"
+		},
+	{
+			"i": "2507",
+			"name": "lastuvilla"
+		},
+	{
+			"i": "2508",
+			"name": "isopuksipuu"
+		},
+	{
+			"i": "2509",
+			"name": "pulveriliima"
+		},
+	{
+			"i": "2510",
+			"name": "kuiva liimata"
+		},
+	{
+			"i": "2511",
+			"name": "jauhepinnoite"
+		},
+	{
+			"i": "2512",
+			"name": "sylinterisarana"
+		},
+	{
+			"i": "2513",
+			"name": "punalipeä"
+		},
+	{
+			"i": "2514",
+			"name": "trooppisten puulajien puuaines"
+		},
+	{
+			"i": "2515",
+			"name": "sydänpuu ruskolaho"
+		},
+	{
+			"i": "2516",
+			"name": "paisuminen, turpoaminen"
+		},
+	{
+			"i": "2517",
+			"name": "paisumisarvo"
+		},
+	{
+			"i": "2518",
+			"name": "siilo"
+		},
+	{
+			"i": "2519",
+			"name": "taskukuorinta"
+		},
+	{
+			"i": "2520",
+			"name": "tappi, pontti"
+		},
+	{
+			"i": "2521",
+			"name": "ponttiliitos"
+		},
+	{
+			"i": "2522",
+			"name": "ponttilauta, profiililauta"
+		},
+	{
+			"i": "2525",
+			"name": "punoa, punonta"
+		},
+	{
+			"i": "2526",
+			"name": "punoskuvio"
+		},
+	{
+			"i": "2527",
+			"name": "rottinki elementti"
+		},
+	{
+			"i": "2528",
+			"name": "rottinkihuonekalut?"
+		},
+	{
+			"i": "2529",
+			"name": ""
+		},
+	{
+			"i": "2530",
+			"name": "korituoli"
+		},
+	{
+			"i": "2531",
+			"name": ""
+		},
+	{
+			"i": "2532",
+			"name": "purjelanka"
+		},
+	{
+			"i": "2533",
+			"name": "purjeneula"
+		},
+	{
+			"i": "2534",
+			"name": "muovirouhe"
+		},
+	{
+			"i": "2535",
+			"name": "hakkuri, murskain"
+		},
+	{
+			"i": "2536",
+			"name": "pyörösahasegmentti"
+		},
+	{
+			"i": "2537",
+			"name": ""
+		},
+	{
+			"i": "2538",
+			"name": "puu"
+		},
+	{
+			"i": "2539",
+			"name": "latvus"
+		},
+	{
+			"i": "2540",
+			"name": "puukaasu"
+		},
+	{
+			"i": "2541",
+			"name": "halko"
+		},
+	{
+			"i": "2542",
+			"name": "pora"
+		},
+	{
+			"i": "2543",
+			"name": "halonhakkaaja"
+		},
+	{
+			"i": "2544",
+			"name": ""
+		},
+	{
+			"i": "2545",
+			"name": "kierre"
+		},
+	{
+			"i": "2546",
+			"name": "poranvarsi"
+		},
+	{
+			"i": "2547",
+			"name": "poraus"
+		},
+	{
+			"i": "2548",
+			"name": "poraus porausohjaimilla"
+		},
+	{
+			"i": "2549",
+			"name": "poraus merkkauksen mukaan"
+		},
+	{
+			"i": "2550",
+			"name": "poraus sovituksen mukaan"
+		},
+	{
+			"i": "2551",
+			"name": "porausohjain"
+		},
+	{
+			"i": "2552",
+			"name": "urajyrsinkone"
+		},
+	{
+			"i": "2553",
+			"name": "vintilänvarsi"
+		},
+	{
+			"i": "2554",
+			"name": "porauskone, porakone"
+		},
+	{
+			"i": "2555",
+			"name": "kirvesmiehen kirves"
+		},
+	{
+			"i": "2556",
+			"name": "puusepäntyö"
+		},
+	{
+			"i": "2557",
+			"name": "puuseppä"
+		},
+	{
+			"i": "2558",
+			"name": "kourutaltta"
+		},
+	{
+			"i": "2559",
+			"name": "puuhiili aktivoima"
+		},
+	{
+			"i": "2560",
+			"name": "puunsysi"
+		},
+	{
+			"i": "2561",
+			"name": "puupalat"
+		},
+	{
+			"i": "2562",
+			"name": "hedelmäpaperi"
+		},
+	{
+			"i": "2563",
+			"name": "puuvillakangas"
+		},
+	{
+			"i": "2564",
+			"name": "puuvillakangas"
+		},
+	{
+			"i": "2565",
+			"name": "puuvillavanu"
+		},
+	{
+			"i": "2566",
+			"name": "puuvillasellu"
+		},
+	{
+			"i": "2567",
+			"name": "puuvillavanu, flokki"
+		},
+	{
+			"i": "2568",
+			"name": "pohjalevy "
+		},
+	{
+			"i": "2569",
+			"name": "säkkikangas"
+		},
+	{
+			"i": "2570",
+			"name": "kokoonpano"
+		},
+	{
+			"i": "2571",
+			"name": "peruspigmentti"
+		},
+	{
+			"i": "2572",
+			"name": "urahöylä"
+		},
+	{
+			"i": "2573",
+			"name": "pölykangas"
+		},
+	{
+			"i": "2574",
+			"name": ""
+		},
+	{
+			"i": "2575",
+			"name": "peruslanka"
+		},
+	{
+			"i": "2576",
+			"name": "poikkipuu"
+		},
+	{
+			"i": "2577",
+			"name": "sarvioksa"
+		},
+	{
+			"i": "2578",
+			"name": "poikkikaide"
+		},
+	{
+			"i": "2579",
+			"name": "punoutuminen"
+		},
+	{
+			"i": "2580",
+			"name": "päittäisliitos, puskuliitos"
+		},
+	{
+			"i": "2581",
+			"name": "(höylä)poltto"
+		},
+	{
+			"i": "2582",
+			"name": "polttorauta"
+		},
+	{
+			"i": "2583",
+			"name": "lattialauta"
+		},
+	{
+			"i": "2584",
+			"name": "jalkalista"
+		},
+	{
+			"i": "2585",
+			"name": "auringonkukkaöljy alkyydi"
+		},
+	{
+			"i": "2586",
+			"name": "saksanpähkinä?"
+		},
+	{
+			"i": "2587",
+			"name": "nahkapergamentti"
+		},
+	{
+			"i": "2588",
+			"name": "pergamenttipaperi"
+		},
+	{
+			"i": "2589",
+			"name": "glassiinipaperi"
+		},
+	{
+			"i": "2590",
+			"name": "myötäsyöttö"
+		},
+	{
+			"i": "2591",
+			"name": "pitkittäistyöstö"
+		},
+	{
+			"i": "2592",
+			"name": ""
+		},
+	{
+			"i": "2593",
+			"name": "orsi "
+		},
+	{
+			"i": "2594",
+			"name": "helmiäinen kiilto"
+		},
+	{
+			"i": "2595",
+			"name": "lehmus"
+		},
+	{
+			"i": "2596",
+			"name": "kaavintahöylä"
+		},
+	{
+			"i": "2597",
+			"name": "pyökki"
+		},
+	{
+			"i": "2598",
+			"name": "käännettävä kovametallipala"
+		},
+	{
+			"i": "2599",
+			"name": ""
+		},
+	{
+			"i": "2600",
+			"name": "kääntöpöytä, karusellipöytä"
+		},
+	{
+			"i": "2601",
+			"name": "pyörtääpuristin"
+		},
+	{
+			"i": "2602",
+			"name": "kiertotuoli"
+		},
+	{
+			"i": "2603",
+			"name": "rumpukuivain, kuivausrumpu"
+		},
+	{
+			"i": "2604",
+			"name": "pyöröovi, kierto-ovi"
+		},
+	{
+			"i": "2605",
+			"name": "pyörimisnopeus"
+		},
+	{
+			"i": "2606",
+			"name": "pyrolyysiaparaatti"
+		},
+	{
+			"i": "2607",
+			"name": "pyrolyysiöljy"
+		},
+	{
+			"i": "2608",
+			"name": "pyrometri"
+		},
+	{
+			"i": "2609",
+			"name": ""
+		},
+	{
+			"i": "2610",
+			"name": "tynnyri, pytti"
+		},
+	{
+			"i": "2611",
+			"name": "tynnyrintekijä"
+		},
+	{
+			"i": "2612",
+			"name": "raaputusveitsi"
+		},
+	{
+			"i": "2613",
+			"name": "raami, kehikko, runkorakenne"
+		},
+	{
+			"i": "2614",
+			"name": ""
+		},
+	{
+			"i": "2615",
+			"name": "kirjakaappi"
+		},
+	{
+			"i": "2616",
+			"name": "kirjastokalusteet"
+		},
+	{
+			"i": "2617",
+			"name": "kirjahylly"
+		},
+	{
+			"i": "2618",
+			"name": "syöttömäärä, syöttönopeus"
+		},
+	{
+			"i": "2619",
+			"name": "runkoliitos"
+		},
+	{
+			"i": "2620",
+			"name": "runkohuonekalu"
+		},
+	{
+			"i": "2621",
+			"name": "kehyspuristin"
+		},
+	{
+			"i": "2622",
+			"name": "runkorakenne"
+		},
+	{
+			"i": "2623",
+			"name": "kehäsahanterä"
+		},
+	{
+			"i": "2624",
+			"name": "jännesaha, kehyssaha"
+		},
+	{
+			"i": "2625",
+			"name": "kehäsaha, raamisaha"
+		},
+	{
+			"i": "2626",
+			"name": "alajyrsin runkoliitosta varten"
+		},
+	{
+			"i": "2627",
+			"name": "kehäovi"
+		},
+	{
+			"i": "2628",
+			"name": "hauraus"
+		},
+	{
+			"i": "2629",
+			"name": "radiaalinen poikkileikkaus"
+		},
+	{
+			"i": "2630",
+			"name": "säteittäinen sivupäästökulma"
+		},
+	{
+			"i": "2631",
+			"name": "vuosilusto, jyrkkä, kulma  > 45°"
+		},
+	{
+			"i": "2632",
+			"name": "säteen suuntainen leikkaus, radiaali sahattu"
+		},
+	{
+			"i": "2633",
+			"name": "höyläviilu"
+		},
+	{
+			"i": "2634",
+			"name": "säteilykovettuva pinnoite"
+		},
+	{
+			"i": "2635",
+			"name": "hierre"
+		},
+	{
+			"i": "2636",
+			"name": "setelipaperi"
+		},
+	{
+			"i": "2637",
+			"name": "hakepala"
+		},
+	{
+			"i": "2638",
+			"name": "(puun)hakkuri"
+		},
+	{
+			"i": "2639",
+			"name": "hakkurinterä, hakun terä"
+		},
+	{
+			"i": "2640",
+			"name": "työskentelymuotti, koneistusmuotti"
+		},
+	{
+			"i": "2641",
+			"name": "solunseinä, soluseinä"
+		},
+	{
+			"i": "2642",
+			"name": "kyllästyspiste"
+		},
+	{
+			"i": "2643",
+			"name": "solutuma"
+		},
+	{
+			"i": "2644",
+			"name": "soluontelo"
+		},
+	{
+			"i": "2645",
+			"name": "ravistaa, ravistella, tärisyttää"
+		},
+	{
+			"i": "2646",
+			"name": "täryseula, täristin, ravistin, epäkeskoseula, tärytin"
+		},
+	{
+			"i": "2647",
+			"name": "raspi"
+		},
+	{
+			"i": "2648",
+			"name": "rasvankestävyys"
+		},
+	{
+			"i": "2649",
+			"name": "varovainen jauhatus"
+		},
+	{
+			"i": "2650",
+			"name": "varovainen jauhatusw"
+		},
+	{
+			"i": "2651",
+			"name": "rasvahapot"
+		},
+	{
+			"i": "2652",
+			"name": "rasvahappo alkyydi"
+		},
+	{
+			"i": "2653",
+			"name": "nojatuoli pyörillä"
+		},
+	{
+			"i": "2654",
+			"name": "nojatuoli pyörillä"
+		},
+	{
+			"i": "2655",
+			"name": "sairaalakalusteet"
+		},
+	{
+			"i": "2656",
+			"name": "Vikavirtasuojakytkimen"
+		},
+	{
+			"i": "2657",
+			"name": ""
+		},
+	{
+			"i": "2658",
+			"name": "kemiallisesti kovettuva pinnoite, reaktiopinnoitus"
+		},
+	{
+			"i": "2659",
+			"name": "reaktiopuu"
+		},
+	{
+			"i": "2660",
+			"name": ""
+		},
+	{
+			"i": "2661",
+			"name": "katkeamispituus"
+		},
+	{
+			"i": "2662",
+			"name": "repeämä"
+		},
+	{
+			"i": "2663",
+			"name": "reduktori"
+		},
+	{
+			"i": "2664",
+			"name": "silityshöylä"
+		},
+	{
+			"i": "2665",
+			"name": "regeneraatio, parantaminen, uudistuminen"
+		},
+	{
+			"i": "2666",
+			"name": "rekisteritelat"
+		},
+	{
+			"i": "2667",
+			"name": "säätö; säätäminen"
+		},
+	{
+			"i": "2668",
+			"name": "siirtokulmain (viistomittain) ??"
+		},
+	{
+			"i": "2669",
+			"name": "heiluritela"
+		},
+	{
+			"i": "2670",
+			"name": "hopeapaju, valkopaju"
+		},
+	{
+			"i": "2671",
+			"name": "renessanssi"
+		},
+	{
+			"i": "2672",
+			"name": "ränni"
+		},
+	{
+			"i": "2673",
+			"name": "kouru"
+		},
+	{
+			"i": "2674",
+			"name": "anti-fouling maali"
+		},
+	{
+			"i": "2675",
+			"name": "jätevesi"
+		},
+	{
+			"i": "2676",
+			"name": "resonanssipuu"
+		},
+	{
+			"i": "2677",
+			"name": "resorsinolihartsi"
+		},
+	{
+			"i": "2678",
+			"name": "hengityssuoja"
+		},
+	{
+			"i": "2679",
+			"name": "vastaanotin"
+		},
+	{
+			"i": "2680",
+			"name": "restaurointi"
+		},
+	{
+			"i": "2681",
+			"name": "retortti"
+		},
+	{
+			"i": "2682",
+			"name": "retrotyyli"
+		},
+	{
+			"i": "2683",
+			"name": "sälelauta"
+		},
+	{
+			"i": "2684",
+			"name": ""
+		},
+	{
+			"i": "2685",
+			"name": "sälelevy ovi"
+		},
+	{
+			"i": "2686",
+			"name": "riviistuin"
+		},
+	{
+			"i": "2687",
+			"name": "hihnavälitys"
+		},
+	{
+			"i": "2688",
+			"name": "alasi"
+		},
+	{
+			"i": "2689",
+			"name": "pyörövasara, ristivasara, vinopäävasara"
+		},
+	{
+			"i": "2690",
+			"name": "oiko/tasohöylä"
+		},
+	{
+			"i": "2691",
+			"name": ""
+		},
+	{
+			"i": "2692",
+			"name": "kynte, kanneli"
+		},
+	{
+			"i": "2693",
+			"name": ""
+		},
+	{
+			"i": "2694",
+			"name": "rihlanhöylä"
+		},
+	{
+			"i": "2695",
+			"name": ""
+		},
+	{
+			"i": "2696",
+			"name": "vaatetanko"
+		},
+	{
+			"i": "2697",
+			"name": "vaatekaappi"
+		},
+	{
+			"i": "2698",
+			"name": ""
+		},
+	{
+			"i": "2699",
+			"name": "riisi"
+		},
+	{
+			"i": "2700",
+			"name": "arkkileikkuri"
+		},
+	{
+			"i": "2701",
+			"name": ""
+		},
+	{
+			"i": "2702",
+			"name": "hylly"
+		},
+	{
+			"i": "2703",
+			"name": "kannatin,  kannatinkisko"
+		},
+	{
+			"i": "2704",
+			"name": "salpa"
+		},
+	{
+			"i": "2705",
+			"name": "kaulaus, kaulata"
+		},
+	{
+			"i": "2706",
+			"name": "rengashalkeama"
+		},
+	{
+			"i": "2707",
+			"name": "rengaslitistyslujuus"
+		},
+	{
+			"i": "2708",
+			"name": "palautettu vesi"
+		},
+	{
+			"i": "2709",
+			"name": "rintatela"
+		},
+	{
+			"i": "2710",
+			"name": ""
+		},
+	{
+			"i": "2711",
+			"name": "poikittaissyöttö"
+		},
+	{
+			"i": "2712",
+			"name": "puun hiominen kohtisuoraan syitä vastaan"
+		},
+	{
+			"i": "2713",
+			"name": "puun leikkaus kohtisuoraan syitä vastaan"
+		},
+	{
+			"i": "2714",
+			"name": "kohtisuoraan syitä vastaan sahaus?"
+		},
+	{
+			"i": "2715",
+			"name": "katkaisusaha, katkosaha"
+		},
+	{
+			"i": "2716",
+			"name": "poikittaisside; sulkuvaneri"
+		},
+	{
+			"i": "2717",
+			"name": ""
+		},
+	{
+			"i": "2718",
+			"name": "poikittaiskuljetin"
+		},
+	{
+			"i": "2719",
+			"name": ""
+		},
+	{
+			"i": "2720",
+			"name": "poikkihalkeama"
+		},
+	{
+			"i": "2721",
+			"name": "poikkileikkaus"
+		},
+	{
+			"i": "2722",
+			"name": "poikittaisleikkaus"
+		},
+	{
+			"i": "2723",
+			"name": "ristiinsä kuvio"
+		},
+	{
+			"i": "2724",
+			"name": "hakaliitos"
+		},
+	{
+			"i": "2725",
+			"name": "ristisilloittuminen"
+		},
+	{
+			"i": "2726",
+			"name": "poikkisuunta"
+		},
+	{
+			"i": "2727",
+			"name": "ristivaneri"
+		},
+	{
+			"i": "2728",
+			"name": "Roe-luku"
+		},
+	{
+			"i": "2729",
+			"name": "viherlipeä"
+		},
+	{
+			"i": "2730",
+			"name": "rokoko"
+		},
+	{
+			"i": "2731",
+			"name": ""
+		},
+	{
+			"i": "2732",
+			"name": "käsisaha"
+		},
+	{
+			"i": "2733",
+			"name": "telaketjusyöttö"
+		},
+	{
+			"i": "2734",
+			"name": "telaketjupuristin"
+		},
+	{
+			"i": "2735",
+			"name": "ruotorikuorimakone"
+		},
+	{
+			"i": "2736",
+			"name": "keskipakomurskain"
+		},
+	{
+			"i": "2737",
+			"name": ""
+		},
+	{
+			"i": "2738",
+			"name": "ruusuke"
+		},
+	{
+			"i": "2739",
+			"name": ""
+		},
+	{
+			"i": "2740",
+			"name": "rotinki"
+		},
+	{
+			"i": "2741",
+			"name": "kierrosta minuutissa"
+		},
+	{
+			"i": "2742",
+			"name": "rollauskone"
+		},
+	{
+			"i": "2743",
+			"name": "rulla, rullapyörä"
+		},
+	{
+			"i": "2744",
+			"name": "palloverhonaru"
+		},
+	{
+			"i": "2745",
+			"name": "reunusnaru, tere"
+		},
+	{
+			"i": "2746",
+			"name": ""
+		},
+	{
+			"i": "2747",
+			"name": "koneellinen rullakuljetin"
+		},
+	{
+			"i": "2748",
+			"name": "rullakuljetin"
+		},
+	{
+			"i": "2749",
+			"name": "pinomitta, pinokuutiometri"
+		},
+	{
+			"i": "2750",
+			"name": "neliömassa"
+		},
+	{
+			"i": "2751",
+			"name": "harjannetyvisyys"
+		},
+	{
+			"i": "2752",
+			"name": "hirsirakennus"
+		},
+	{
+			"i": "2753",
+			"name": ""
+		},
+	{
+			"i": "2754",
+			"name": "rinkihiomakone"
+		},
+	{
+			"i": "2755",
+			"name": "keskipakomurskain"
+		},
+	{
+			"i": "2756",
+			"name": "kehäputkiloinen puu"
+		},
+	{
+			"i": "2757",
+			"name": "piikarbidi"
+		},
+	{
+			"i": "2758",
+			"name": "lylypuu"
+		},
+	{
+			"i": "2759",
+			"name": "haritus"
+		},
+	{
+			"i": "2760",
+			"name": "harituksen suuruus"
+		},
+	{
+			"i": "2761",
+			"name": "haritus"
+		},
+	{
+			"i": "2762",
+			"name": "harituspihdit"
+		},
+	{
+			"i": "2763",
+			"name": "haritusrauta"
+		},
+	{
+			"i": "2764",
+			"name": "räätäli mittanauha"
+		},
+	{
+			"i": "2765",
+			"name": "räätäliliitu, kangasliitu, vahaliitu"
+		},
+	{
+			"i": "2766",
+			"name": "ratakisko, ratapölkky, kisko, kaide"
+		},
+	{
+			"i": "2767",
+			"name": "kaksoissuuntapiirrin"
+		},
+	{
+			"i": "2768",
+			"name": "viistoliitos"
+		},
+	{
+			"i": "2769",
+			"name": "hakaliitos, lapaliitos"
+		},
+	{
+			"i": "2770",
+			"name": "viistosauma, viistojatkos, viistoliitos, vino päittäisliitos, lapaliitos"
+		},
+	{
+			"i": "2771",
+			"name": "kampaliitos"
+		},
+	{
+			"i": "2772",
+			"name": "rytmi"
+		},
+	{
+			"i": "2773",
+			"name": "kaavin"
+		},
+	{
+			"i": "2774",
+			"name": "teräpäällystys"
+		},
+	{
+			"i": "2775",
+			"name": "saha"
+		},
+	{
+			"i": "2776",
+			"name": "sahaus"
+		},
+	{
+			"i": "2777",
+			"name": "saanto"
+		},
+	{
+			"i": "2778",
+			"name": "sahapenkki"
+		},
+	{
+			"i": "2779",
+			"name": "sahapenkki"
+		},
+	{
+			"i": "2780",
+			"name": "valkosaarni"
+		},
+	{
+			"i": "2781",
+			"name": "saarni"
+		},
+	{
+			"i": "2782",
+			"name": "johtotela"
+		},
+	{
+			"i": "2783",
+			"name": "selkeytyskyyppi"
+		},
+	{
+			"i": "2784",
+			"name": "verhoilijan vasara"
+		},
+	{
+			"i": "2785",
+			"name": "ohentuma, kaventuma"
+		},
+	{
+			"i": "2786",
+			"name": "satulavyön kiristin"
+		},
+	{
+			"i": "2787",
+			"name": "satulavyö "
+		},
+	{
+			"i": "2788",
+			"name": "kädensija, kahva, kampi, käsituki"
+		},
+	{
+			"i": "2789",
+			"name": "leikkuukulma"
+		},
+	{
+			"i": "2790",
+			"name": "kohtaamiskulma"
+		},
+	{
+			"i": "2791",
+			"name": "poistumiskulma"
+		},
+	{
+			"i": "2792",
+			"name": "hampaiden tyssäys"
+		},
+	{
+			"i": "2793",
+			"name": "hampaiden tasaushionta"
+		},
+	{
+			"i": "2794",
+			"name": "terähuolto"
+		},
+	{
+			"i": "2795",
+			"name": "teräkehyksen leveys"
+		},
+	{
+			"i": "2796",
+			"name": "ohjauskisko"
+		},
+	{
+			"i": "2797",
+			"name": "iskun pituus"
+		},
+	{
+			"i": "2798",
+			"name": "tukkivaunu"
+		},
+	{
+			"i": "2799",
+			"name": "teline, portti"
+		},
+	{
+			"i": "2800",
+			"name": "terän suojus"
+		},
+	{
+			"i": "2801",
+			"name": "asete"
+		},
+	{
+			"i": "2802",
+			"name": "pyöröterä, sirkkelisaha"
+		},
+	{
+			"i": "2803",
+			"name": "esijännitys"
+		},
+	{
+			"i": "2804",
+			"name": "teräketju"
+		},
+	{
+			"i": "2805",
+			"name": "teräohjain"
+		},
+	{
+			"i": "2806",
+			"name": "resonanssitaajuus, ominaistaajuus"
+		},
+	{
+			"i": "2807",
+			"name": "jännitäminen"
+		},
+	{
+			"i": "2808",
+			"name": "oikaisu"
+		},
+	{
+			"i": "2809",
+			"name": "terän stabiliteetti"
+		},
+	{
+			"i": "2810",
+			"name": "kuppimaisuus"
+		},
+	{
+			"i": "2811",
+			"name": "kierous"
+		},
+	{
+			"i": "2812",
+			"name": "valssaus, mankelointi"
+		},
+	{
+			"i": "2813",
+			"name": "terän paksuus?"
+		},
+	{
+			"i": "2814",
+			"name": "sahanterä"
+		},
+	{
+			"i": "2815",
+			"name": "vannesahanterän taivutusjännitys"
+		},
+	{
+			"i": "2816",
+			"name": "vannesahanterän kiristysjärjestelmä"
+		},
+	{
+			"i": "2817",
+			"name": "teräpyörän kallistuslaite"
+		},
+	{
+			"i": "2818",
+			"name": "vannesahanterän oikaisu-ja jännitämislaite"
+		},
+	{
+			"i": "2819",
+			"name": "vannesahaterän suuntaja"
+		},
+	{
+			"i": "2820",
+			"name": "vannesahanterän lämpökäsittely"
+		},
+	{
+			"i": "2821",
+			"name": "mankelointi"
+		},
+	{
+			"i": "2822",
+			"name": "vannesahan terä"
+		},
+	{
+			"i": "2823",
+			"name": "sahatavara"
+		},
+	{
+			"i": "2824",
+			"name": "sahatavaran paksuus"
+		},
+	{
+			"i": "2825",
+			"name": "sisälape"
+		},
+	{
+			"i": "2826",
+			"name": "pintalape"
+		},
+	{
+			"i": "2827",
+			"name": "sahatukki"
+		},
+	{
+			"i": "2828",
+			"name": "sahapukki"
+		},
+	{
+			"i": "2829",
+			"name": "sahanpuru"
+		},
+	{
+			"i": "2830",
+			"name": "sahakehä, sahakehys"
+		},
+	{
+			"i": "2831",
+			"name": "kumaruuden säätäminen"
+		},
+	{
+			"i": "2832",
+			"name": "kampiakselisysteemi"
+		},
+	{
+			"i": "2833",
+			"name": "kehyssahamies"
+		},
+	{
+			"i": "2834",
+			"name": "keskitysrengas, laippa"
+		},
+	{
+			"i": "2835",
+			"name": "sahattu viilu"
+		},
+	{
+			"i": "2836",
+			"name": "sahausura, sahausrako"
+		},
+	{
+			"i": "2837",
+			"name": "sahausuran korkeus"
+		},
+	{
+			"i": "2838",
+			"name": "sahausuran levennys"
+		},
+	{
+			"i": "2839",
+			"name": "sahausuran leveys"
+		},
+	{
+			"i": "2840",
+			"name": ""
+		},
+	{
+			"i": "2841",
+			"name": "teroituspenkki"
+		},
+	{
+			"i": "2842",
+			"name": "sahausjäte"
+		},
+	{
+			"i": "2843",
+			"name": "sahalaitos, saha"
+		},
+	{
+			"i": "2844",
+			"name": "akseli, turna, teräakseli"
+		},
+	{
+			"i": "2845",
+			"name": "taajuusmuuntaja"
+		},
+	{
+			"i": "2846",
+			"name": "laatikko, vetolaatikko, pöytälaatikko"
+		},
+	{
+			"i": "2847",
+			"name": "laatikon kädensija"
+		},
+	{
+			"i": "2848",
+			"name": "laatikon ohjaimet"
+		},
+	{
+			"i": "2849",
+			"name": "piilotikki"
+		},
+	{
+			"i": "2850",
+			"name": "laineikas, syyhäiriö"
+		},
+	{
+			"i": "2851",
+			"name": "laineikkuus, syyhäiriö"
+		},
+	{
+			"i": "2852",
+			"name": "sametti"
+		},
+	{
+			"i": "2853",
+			"name": "askelmoottori"
+		},
+	{
+			"i": "2854",
+			"name": "?"
+		},
+	{
+			"i": "2855",
+			"name": "Tervaleppä"
+		},
+	{
+			"i": "2856",
+			"name": "sarja"
+		},
+	{
+			"i": "2857",
+			"name": "selkäpuu"
+		},
+	{
+			"i": "2858",
+			"name": "kolmiohammastus"
+		},
+	{
+			"i": "2859",
+			"name": "metallilla päällystetty vaneri"
+		},
+	{
+			"i": "2860",
+			"name": "sarvioksa"
+		},
+	{
+			"i": "2861",
+			"name": "laineikkuus, syyhäiriö"
+		},
+	{
+			"i": "2862",
+			"name": "satinointi, kiillotus satinoimalla"
+		},
+	{
+			"i": "2863",
+			"name": "satiini, satiinisidos"
+		},
+	{
+			"i": "2864",
+			"name": "laite, koneikko"
+		},
+	{
+			"i": "2865",
+			"name": "säätö, asetus"
+		},
+	{
+			"i": "2866",
+			"name": "asetteen säätämineen mallinneen avulla"
+		},
+	{
+			"i": "2867",
+			"name": "asetteen säätämineen koekappaleen avulla"
+		},
+	{
+			"i": "2868",
+			"name": "säätömitta"
+		},
+	{
+			"i": "2869",
+			"name": "mittauteknikka"
+		},
+	{
+			"i": "2870",
+			"name": "laitteet, laitteisto"
+		},
+	{
+			"i": "2871",
+			"name": "seetri, setri"
+		},
+	{
+			"i": "2872",
+			"name": "mokkanahka kaltainen pinnoitus"
+		},
+	{
+			"i": "2873",
+			"name": ""
+		},
+	{
+			"i": "2874",
+			"name": "sarja, setti"
+		},
+	{
+			"i": "2875",
+			"name": "sarjatuotanto"
+		},
+	{
+			"i": "2876",
+			"name": ""
+		},
+	{
+			"i": "2877",
+			"name": "sekoituspumppu"
+		},
+	{
+			"i": "2878",
+			"name": "segmenttiterä"
+		},
+	{
+			"i": "2879",
+			"name": "särmäyssaha"
+		},
+	{
+			"i": "2880",
+			"name": "komero"
+		},
+	{
+			"i": "2881",
+			"name": "sekretäärilipasto"
+		},
+	{
+			"i": "2882",
+			"name": "irrallisista moduleista koostuva huonekalu"
+		},
+	{
+			"i": "2886",
+			"name": "selkänoja"
+		},
+	{
+			"i": "2887",
+			"name": "liitos, jatkos"
+		},
+	{
+			"i": "2888",
+			"name": "liitoksen välys "
+		},
+	{
+			"i": "2889",
+			"name": "saartaatut isosyanaatti"
+		},
+	{
+			"i": "2890",
+			"name": "sidottu kosteus, sidonnaiskosteus"
+		},
+	{
+			"i": "2891",
+			"name": "kuitusidosalue"
+		},
+	{
+			"i": "2892",
+			"name": "sidottu SO2"
+		},
+	{
+			"i": "2893",
+			"name": "syrjä, särmä"
+		},
+	{
+			"i": "2894",
+			"name": "syrjävääryys"
+		},
+	{
+			"i": "2895",
+			"name": "reunahöyläyskone"
+		},
+	{
+			"i": "2896",
+			"name": "reunapuristin"
+		},
+	{
+			"i": "2897",
+			"name": "reunalista"
+		},
+	{
+			"i": "2898",
+			"name": "reunalista"
+		},
+	{
+			"i": "2899",
+			"name": "särmähalkeama, reunahalkeama, särmäsärö"
+		},
+	{
+			"i": "2900",
+			"name": "vajaasärmäinen lauta"
+		},
+	{
+			"i": "2901",
+			"name": "särmäämätön sahatavara"
+		},
+	{
+			"i": "2902",
+			"name": "särmäys"
+		},
+	{
+			"i": "2903",
+			"name": "syrjäoksa"
+		}
+]

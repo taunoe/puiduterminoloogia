@@ -1,0 +1,18 @@
+{
+  "name": "Puiduterminoloogia",
+  "description": "Puiduterminite seletused ja vasted inglise, soome, vene ja saksa keeles.",
+  "version": "0.0.3",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "icon-16.png", "128": "icon-128.png" },
+  "permissions": [
+    "storage",
+    "https://www.google-analytics.com/", 
+    "webview"
+  ]
+
+}

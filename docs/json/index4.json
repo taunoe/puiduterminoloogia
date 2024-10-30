@@ -1,0 +1,2002 @@
+[
+{
+			"i": "1501",
+			"name": "lihvitud pind"
+		},
+		{
+			"i": "1502",
+			"name": "lihvketas"
+		},
+		{
+			"i": "1503",
+			"name": "lihvklots"
+		},
+		{
+			"i": "1504",
+			"name": "lihvleht"
+		},
+		{
+			"i": "1505",
+			"name": "lihvlint"
+		},
+		{
+			"i": "1506",
+			"name": "lihvmaterjali alus"
+		},
+		{
+			"i": "1507",
+			"name": "lihvmaterjali teralisus"
+		},
+		{
+			"i": "1508",
+			"name": "lihvpaber, liivapaber"
+		},
+		{
+			"i": "1509",
+			"name": "lihvpasta"
+		},
+		{
+			"i": "1510",
+			"name": "lihvpink"
+		},
+		{
+			"i": "1511",
+			"name": "lihvpulber"
+		},
+		{
+			"i": "1512",
+			"name": "lihvriie"
+		},
+		{
+			"i": "1513",
+			"name": "lihvterade pindamistihedus"
+		},
+		{
+			"i": "1514",
+			"name": "liide"
+		},
+		{
+			"i": "1515",
+			"name": "liidendmööbel"
+		},
+		{
+			"i": "1516",
+			"name": "liidustus"
+		},
+		{
+			"i": "1517",
+			"name": "liigend, šarniir"
+		},
+		{
+			"i": "1518",
+			"name": "liigendhing"
+		},
+		{
+			"i": "1519",
+			"name": "liigendsaagpink (masin)"
+		},
+		{
+			"i": "1520",
+			"name": "liigendsuruti"
+		},
+		{
+			"i": "1521",
+			"name": "liigenduks"
+		},
+		{
+			"i": "1522",
+			"name": "liigendukse hing"
+		},
+		{
+			"i": "1523",
+			"name": "liigjahvatus"
+		},
+		{
+			"i": "1524",
+			"name": "liim"
+		},
+		{
+			"i": "1525",
+			"name": "liimeister, laastunuga"
+		},
+		{
+			"i": "1526",
+			"name": "liimi läbitungimine  "
+		},
+		{
+			"i": "1527",
+			"name": "liimi(töö)lahus"
+		},
+		{
+			"i": "1528",
+			"name": "liimikeedupott, liimipott"
+		},
+		{
+			"i": "1529",
+			"name": "liimilint"
+		},
+		{
+			"i": "1530",
+			"name": "liimimine"
+		},
+		{
+			"i": "1531",
+			"name": "liimimisdefekt"
+		},
+		{
+			"i": "1532",
+			"name": "liimimisklamber"
+		},
+		{
+			"i": "1533",
+			"name": "liimimispress"
+		},
+		{
+			"i": "1534",
+			"name": "liimimisreziim"
+		},
+		{
+			"i": "1535",
+			"name": "liimimissuruti"
+		},
+		{
+			"i": "1536",
+			"name": "liimimistugevus"
+		},
+		{
+			"i": "1537",
+			"name": "liiming"
+		},
+		{
+			"i": "1538",
+			"name": "liiminiit"
+		},
+		{
+			"i": "1539",
+			"name": "liimipintsel"
+		},
+		{
+			"i": "1540",
+			"name": "liimiplaadike"
+		},
+		{
+			"i": "1541",
+			"name": "liimipress "
+		},
+		{
+			"i": "1542",
+			"name": "liimipulk"
+		},
+		{
+			"i": "1543",
+			"name": "liimipüstol"
+		},
+		{
+			"i": "1544",
+			"name": "liimipüstol "
+		},
+		{
+			"i": "1545",
+			"name": "liimisegisti"
+		},
+		{
+			"i": "1546",
+			"name": "liimisüstal"
+		},
+		{
+			"i": "1547",
+			"name": "liimitamine"
+		},
+		{
+			"i": "1548",
+			"name": "liimitav mõõdulint"
+		},
+		{
+			"i": "1549",
+			"name": "liimitud"
+		},
+		{
+			"i": "1550",
+			"name": "liimivaltsid"
+		},
+		{
+			"i": "1551",
+			"name": "liimivuuk"
+		},
+		{
+			"i": "1552",
+			"name": "liimkruntimine"
+		},
+		{
+			"i": "1553",
+			"name": "liimpainddetail"
+		},
+		{
+			"i": "1554",
+			"name": "liimpaindtool"
+		},
+		{
+			"i": "1555",
+			"name": "liimpainutamine"
+		},
+		{
+			"i": "1556",
+			"name": "liimpuidu ehitus"
+		},
+		{
+			"i": "1557",
+			"name": "liimpuit"
+		},
+		{
+			"i": "1558",
+			"name": "liimpuitdetail"
+		},
+		{
+			"i": "1559",
+			"name": "liimpuitkilp"
+		},
+		{
+			"i": "1560",
+			"name": "liimseotis"
+		},
+		{
+			"i": "1561",
+			"name": "liimspoonpuit"
+		},
+		{
+			"i": "1562",
+			"name": "liimvärv"
+		},
+		{
+			"i": "1563",
+			"name": "liimühendus, liimseotis"
+		},
+		{
+			"i": "1564",
+			"name": "liinitöö"
+		},
+		{
+			"i": "1565",
+			"name": "liiper"
+		},
+		{
+			"i": "1566",
+			"name": "liiprisaagimispink"
+		},
+		{
+			"i": "1567",
+			"name": "liist"
+		},
+		{
+			"i": "1568",
+			"name": "liistak"
+		},
+		{
+			"i": "1569",
+			"name": "liitfrees"
+		},
+		{
+			"i": "1570",
+			"name": "liitsäsilõhe"
+		},
+		{
+			"i": "1571",
+			"name": "liivapüüdur"
+		},
+		{
+			"i": "1572",
+			"name": "lima moodustumine"
+		},
+		{
+			"i": "1573",
+			"name": "limatõrjevahend"
+		},
+		{
+			"i": "1574",
+			"name": "linaluuplaat"
+		},
+		{
+			"i": "1575",
+			"name": "linane vatiin"
+		},
+		{
+			"i": "1576",
+			"name": "linaseemneõli"
+		},
+		{
+			"i": "1577",
+			"name": "linatakk"
+		},
+		{
+			"i": "1578",
+			"name": "linaõlialküüd"
+		},
+		{
+			"i": "1579",
+			"name": "lindi jootmine"
+		},
+		{
+			"i": "1580",
+			"name": "lindi keevitamine"
+		},
+		{
+			"i": "1581",
+			"name": "lindiratas"
+		},
+		{
+			"i": "1582",
+			"name": "lineeritud paber"
+		},
+		{
+			"i": "1583",
+			"name": "linnusilma tekstuur"
+		},
+		{
+			"i": "1584",
+			"name": "linnuõõs"
+		},
+		{
+			"i": "1585",
+			"name": "lint"
+		},
+		{
+			"i": "1586",
+			"name": "lintkonveieretteanne"
+		},
+		{
+			"i": "1587",
+			"name": "lintkoorimine"
+		},
+		{
+			"i": "1588",
+			"name": "lintkuivati"
+		},
+		{
+			"i": "1589",
+			"name": "lintlihvmasin, lintlihvpink"
+		},
+		{
+			"i": "1590",
+			"name": "lintpesur"
+		},
+		{
+			"i": "1591",
+			"name": "lintpinguti"
+		},
+		{
+			"i": "1592",
+			"name": "lintpoleermasin"
+		},
+		{
+			"i": "1593",
+			"name": "lintpress"
+		},
+		{
+			"i": "1594",
+			"name": "lintpuur, stooporpuur, korgitspuur, Lewis-spiraalpuur, lintspiraalpuur"
+		},
+		{
+			"i": "1595",
+			"name": "lintsaagimine"
+		},
+		{
+			"i": "1596",
+			"name": "lintsaagmasin, lintsaagpink"
+		},
+		{
+			"i": "1597",
+			"name": "linttransportöör"
+		},
+		{
+			"i": "1598",
+			"name": "lipiidid, lipoidid?"
+		},
+		{
+			"i": "1599",
+			"name": "lisapigment"
+		},
+		{
+			"i": "1600",
+			"name": "litograafiapaber"
+		},
+		{
+			"i": "1601",
+			"name": "liuglauaga lintlihvmasin"
+		},
+		{
+			"i": "1602",
+			"name": "liuglaud, etteandekelk"
+		},
+		{
+			"i": "1603",
+			"name": "liuguks, lükanduks"
+		},
+		{
+			"i": "1604",
+			"name": "looduslik kiudaine"
+		},
+		{
+			"i": "1605",
+			"name": "looduslik liim"
+		},
+		{
+			"i": "1606",
+			"name": "looduslik pigment"
+		},
+		{
+			"i": "1607",
+			"name": "looduslik vaik"
+		},
+		{
+			"i": "1608",
+			"name": "looduslik õli"
+		},
+		{
+			"i": "1609",
+			"name": "looge"
+		},
+		{
+			"i": "1610",
+			"name": "loomne liim"
+		},
+		{
+			"i": "1611",
+			"name": "lubjakustuti"
+		},
+		{
+			"i": "1612",
+			"name": "lubjapiim"
+		},
+		{
+			"i": "1613",
+			"name": "lubjapõletusahi"
+		},
+		{
+			"i": "1614",
+			"name": "lukk"
+		},
+		{
+			"i": "1615",
+			"name": "lukukeel"
+		},
+		{
+			"i": "1616",
+			"name": "lukukelk"
+		},
+		{
+			"i": "1617",
+			"name": "lukusilt"
+		},
+		{
+			"i": "1618",
+			"name": "luminestseeruv värv"
+		},
+		{
+			"i": "1619",
+			"name": "lusikpeitel"
+		},
+		{
+			"i": "1620",
+			"name": "lusikpuur"
+		},
+		{
+			"i": "1621",
+			"name": "luuk"
+		},
+		{
+			"i": "1622",
+			"name": "lõhe"
+		},
+		{
+			"i": "1623",
+			"name": "lõhenemine"
+		},
+		{
+			"i": "1624",
+			"name": "lõhestatavus"
+		},
+		{
+			"i": "1625",
+			"name": "lõhestuslõikus"
+		},
+		{
+			"i": "1626",
+			"name": "lõhki lõikama"
+		},
+		{
+			"i": "1627",
+			"name": "lõhkuma"
+		},
+		{
+			"i": "1628",
+			"name": "lõhkumismasin"
+		},
+		{
+			"i": "1629",
+			"name": "lõhn"
+		},
+		{
+			"i": "1630",
+			"name": "lõige "
+		},
+		{
+			"i": "1631",
+			"name": "lõikama"
+		},
+		{
+			"i": "1632",
+			"name": "lõikeaeg"
+		},
+		{
+			"i": "1633",
+			"name": "lõikeeritöö"
+		},
+		{
+			"i": "1634",
+			"name": "lõikejõud"
+		},
+		{
+			"i": "1635",
+			"name": "lõikekiirus"
+		},
+		{
+			"i": "1636",
+			"name": "lõikekiirusmõõdik"
+		},
+		{
+			"i": "1637",
+			"name": "lõikelaius"
+		},
+		{
+			"i": "1638",
+			"name": "lõikelaud"
+		},
+		{
+			"i": "1639",
+			"name": "lõikeliikumine"
+		},
+		{
+			"i": "1640",
+			"name": "lõikenurk"
+		},
+		{
+			"i": "1641",
+			"name": "lõikeornament"
+		},
+		{
+			"i": "1642",
+			"name": "lõikepea, freespea  "
+		},
+		{
+			"i": "1643",
+			"name": "lõikepind"
+		},
+		{
+			"i": "1644",
+			"name": "lõikerežiim"
+		},
+		{
+			"i": "1645",
+			"name": "lõikeriist"
+		},
+		{
+			"i": "1646",
+			"name": "lõikeriista tööosa"
+		},
+		{
+			"i": "1647",
+			"name": "lõikeserv"
+		},
+		{
+			"i": "1648",
+			"name": "lõikeserva teravus"
+		},
+		{
+			"i": "1649",
+			"name": "lõikeserva ümarusraadius"
+		},
+		{
+			"i": "1650",
+			"name": "lõiketangid"
+		},
+		{
+			"i": "1651",
+			"name": "lõiketasapind"
+		},
+		{
+			"i": "1652",
+			"name": "lõiketeooria"
+		},
+		{
+			"i": "1653",
+			"name": "lõiketera"
+		},
+		{
+			"i": "1654",
+			"name": "lõiketera esitahk, hambarind"
+		},
+		{
+			"i": "1655",
+			"name": "lõiketera kulumine"
+		},
+		{
+			"i": "1656",
+			"name": "lõiketera nürinemine"
+		},
+		{
+			"i": "1657",
+			"name": "lõiketrajektoor"
+		},
+		{
+			"i": "1658",
+			"name": "lõiketöötlemine"
+		},
+		{
+			"i": "1659",
+			"name": "lõikevõimsus"
+		},
+		{
+			"i": "1660",
+			"name": "lõikmed, tsikelduslaast"
+		},
+		{
+			"i": "1661",
+			"name": "lõikmed, tsikelduslaast"
+		},
+		{
+			"i": "1662",
+			"name": "lõikur"
+		},
+		{
+			"i": "1663",
+			"name": "lõppkooste"
+		},
+		{
+			"i": "1664",
+			"name": "lõpplihvimine"
+		},
+		{
+			"i": "1665",
+			"name": "lõppniiskus"
+		},
+		{
+			"i": "1666",
+			"name": "lõpptöötlus"
+		},
+		{
+			"i": "1667",
+			"name": "lõppviimistluskiht"
+		},
+		{
+			"i": "1668",
+			"name": "lõtk"
+		},
+		{
+			"i": "1669",
+			"name": "lõõmutamine, lõõmutus"
+		},
+		{
+			"i": "1670",
+			"name": "läbiaurutamine"
+		},
+		{
+			"i": "1671",
+			"name": "läbilihv"
+		},
+		{
+			"i": "1672",
+			"name": "läbilõikepeitel"
+		},
+		{
+			"i": "1673",
+			"name": "läbim, käik"
+		},
+		{
+			"i": "1674",
+			"name": "läbimoperatsioon"
+		},
+		{
+			"i": "1675",
+			"name": "läbimpress"
+		},
+		{
+			"i": "1676",
+			"name": "läbimpress"
+		},
+		{
+			"i": "1677",
+			"name": "läbimtöötlusega pink"
+		},
+		{
+			"i": "1678",
+			"name": "läbindusklass"
+		},
+		{
+			"i": "1679",
+			"name": "läbipaine"
+		},
+		{
+			"i": "1680",
+			"name": "läbipaistev pindakaitsev kate"
+		},
+		{
+			"i": "1681",
+			"name": "läbipaistev pinnakate"
+		},
+		{
+			"i": "1682",
+			"name": "läbipaistmatus"
+		},
+		{
+			"i": "1683",
+			"name": "läbipuhutud (oksüdeeritud ) õli"
+		},
+		{
+			"i": "1684",
+			"name": "läbisurvetugevus"
+		},
+		{
+			"i": "1685",
+			"name": "läbiv kalasabatappseotis"
+		},
+		{
+			"i": "1686",
+			"name": "läbiv lõhe"
+		},
+		{
+			"i": "1687",
+			"name": "läbiv oks"
+		},
+		{
+			"i": "1688",
+			"name": "läbiv peittapp"
+		},
+		{
+			"i": "1689",
+			"name": "läbiv poolpeittapp"
+		},
+		{
+			"i": "1690",
+			"name": "läbiv raamtappseotis"
+		},
+		{
+			"i": "1691",
+			"name": "läbiv tapipesa"
+		},
+		{
+			"i": "1692",
+			"name": "läbiv tapp"
+		},
+		{
+			"i": "1693",
+			"name": "läbiva keelega T-seotis"
+		},
+		{
+			"i": "1694",
+			"name": "läbivaade"
+		},
+		{
+			"i": "1695",
+			"name": "läige"
+		},
+		{
+			"i": "1696",
+			"name": "läige"
+		},
+		{
+			"i": "1697",
+			"name": "läike ebaühtlus"
+		},
+		{
+			"i": "1698",
+			"name": "lävepakk, ukselävi"
+		},
+		{
+			"i": "1699",
+			"name": "löögikindluskatse"
+		},
+		{
+			"i": "1700",
+			"name": "löögimüra tase"
+		},
+		{
+			"i": "1701",
+			"name": "löögimüra ülekanne"
+		},
+		{
+			"i": "1702",
+			"name": "löökmutter"
+		},
+		{
+			"i": "1703",
+			"name": "lühike saematerjal"
+		},
+		{
+			"i": "1704",
+			"name": "lühike ümarpuit"
+		},
+		{
+			"i": "1705",
+			"name": "lühiringlus"
+		},
+		{
+			"i": "1706",
+			"name": "lülipuiduline puu"
+		},
+		{
+			"i": "1707",
+			"name": "lülipuidumädanik"
+		},
+		{
+			"i": "1708",
+			"name": "lülipuit"
+		},
+		{
+			"i": "1709",
+			"name": "lünett"
+		},
+		{
+			"i": "1710",
+			"name": "maarjas"
+		},
+		{
+			"i": "1711",
+			"name": "madalakvaliteetne saematerjal"
+		},
+		{
+			"i": "1712",
+			"name": "madalkuivatusega pinnakate"
+		},
+		{
+			"i": "1713",
+			"name": "madalsurvepihustus"
+		},
+		{
+			"i": "1714",
+			"name": "madrats"
+		},
+		{
+			"i": "1715",
+			"name": "madrats"
+		},
+		{
+			"i": "1716",
+			"name": "madratsikott, madratsikate "
+		},
+		{
+			"i": "1717",
+			"name": "magamistoamööbel"
+		},
+		{
+			"i": "1718",
+			"name": "magamistoamööbel"
+		},
+		{
+			"i": "1719",
+			"name": "magasindefibröör"
+		},
+		{
+			"i": "1720",
+			"name": "magneesiumalus"
+		},
+		{
+			"i": "1721",
+			"name": "magnefiittselluloos"
+		},
+		{
+			"i": "1722",
+			"name": "magnetotsaga sadulsepa haamer"
+		},
+		{
+			"i": "1723",
+			"name": "magnetsulgur"
+		},
+		{
+			"i": "1724",
+			"name": "mahagoon "
+		},
+		{
+			"i": "1725",
+			"name": "mahatõmbenöörimine"
+		},
+		{
+			"i": "1726",
+			"name": "mahuline vatiin "
+		},
+		{
+			"i": "1727",
+			"name": "mahuti"
+		},
+		{
+			"i": "1728",
+			"name": "mahutusmööbel"
+		},
+		{
+			"i": "1729",
+			"name": "majaseen"
+		},
+		{
+			"i": "1730",
+			"name": "majasikk"
+		},
+		{
+			"i": "1731",
+			"name": "malm"
+		},
+		{
+			"i": "1732",
+			"name": "maltspuidu mädanik"
+		},
+		{
+			"i": "1733",
+			"name": "maltspuiduline puu"
+		},
+		{
+			"i": "1734",
+			"name": "maltspuidust puitmaterjal"
+		},
+		{
+			"i": "1735",
+			"name": "maltspuit"
+		},
+		{
+			"i": "1736",
+			"name": "mannaan"
+		},
+		{
+			"i": "1737",
+			"name": "mannogalaktaan"
+		},
+		{
+			"i": "1738",
+			"name": "mantelraamihing"
+		},
+		{
+			"i": "1739",
+			"name": "markeerija, märgistaja"
+		},
+		{
+			"i": "1740",
+			"name": "markeerimine, märgistamine"
+		},
+		{
+			"i": "1741",
+			"name": "markeerimiskirves"
+		},
+		{
+			"i": "1742",
+			"name": "markeerimispliiats, marker"
+		},
+		{
+			"i": "1743",
+			"name": "markeerimisvasar"
+		},
+		{
+			"i": "1744",
+			"name": "marketrii"
+		},
+		{
+			"i": "1745",
+			"name": "marlisukk"
+		},
+		{
+			"i": "1746",
+			"name": "masina ajamipool"
+		},
+		{
+			"i": "1747",
+			"name": "masina teeninduspool"
+		},
+		{
+			"i": "1748",
+			"name": "masinabassein"
+		},
+		{
+			"i": "1749",
+			"name": "masinakalander"
+		},
+		{
+			"i": "1750",
+			"name": "masinalaud"
+		},
+		{
+			"i": "1751",
+			"name": "masinapraak"
+		},
+		{
+			"i": "1752",
+			"name": "masinariietus"
+		},
+		{
+			"i": "1753",
+			"name": "masinasuund, pikisuund"
+		},
+		{
+			"i": "1754",
+			"name": "masinkoorimine"
+		},
+		{
+			"i": "1755",
+			"name": "masinlaius"
+		},
+		{
+			"i": "1756",
+			"name": "masinmuundur, umformer"
+		},
+		{
+			"i": "1757",
+			"name": "masinpeitel"
+		},
+		{
+			"i": "1758",
+			"name": "masinpeiteldamine"
+		},
+		{
+			"i": "1759",
+			"name": "masinsiledus"
+		},
+		{
+			"i": "1760",
+			"name": "masintugevussortimine"
+		},
+		{
+			"i": "1761",
+			"name": "masinõmblusniit"
+		},
+		{
+			"i": "1762",
+			"name": "mass"
+		},
+		{
+			"i": "1763",
+			"name": "massi väljapesu"
+		},
+		{
+			"i": "1764",
+			"name": "massibassein"
+		},
+		{
+			"i": "1765",
+			"name": "massisiiber"
+		},
+		{
+			"i": "1766",
+			"name": "massisliimitus"
+		},
+		{
+			"i": "1767",
+			"name": "massitihendi"
+		},
+		{
+			"i": "1768",
+			"name": "massitoru"
+		},
+		{
+			"i": "1769",
+			"name": "masstootmine, hulgitootmine"
+		},
+		{
+			"i": "1770",
+			"name": "mateerimine, matistamine"
+		},
+		{
+			"i": "1771",
+			"name": "materjal"
+		},
+		{
+			"i": "1772",
+			"name": "matkamööbel, välimööbel"
+		},
+		{
+			"i": "1773",
+			"name": "matsereeritud tselluloos"
+		},
+		{
+			"i": "1774",
+			"name": "matt"
+		},
+		{
+			"i": "1775",
+			"name": "matt pinnakate"
+		},
+		{
+			"i": "1776",
+			"name": "MDF-plaat"
+		},
+		{
+			"i": "1777",
+			"name": "meesa"
+		},
+		{
+			"i": "1778",
+			"name": "meetod"
+		},
+		{
+			"i": "1779",
+			"name": "meetrilukk"
+		},
+		{
+			"i": "1780",
+			"name": "mehaanilised omadused"
+		},
+		{
+			"i": "1781",
+			"name": "mehhanism, seade"
+		},
+		{
+			"i": "1782",
+			"name": "meisel"
+		},
+		{
+			"i": "1783",
+			"name": "melamiinvaik-pinnakate"
+		},
+		{
+			"i": "1784",
+			"name": "mererohi"
+		},
+		{
+			"i": "1785",
+			"name": "merevaigulakk"
+		},
+		{
+			"i": "1786",
+			"name": "mereveekindel viimistlus"
+		},
+		{
+			"i": "1787",
+			"name": "merseriseerimine"
+		},
+		{
+			"i": "1788",
+			"name": "messing"
+		},
+		{
+			"i": "1789",
+			"name": "metallfurnituur"
+		},
+		{
+			"i": "1790",
+			"name": "metallhöövel"
+		},
+		{
+			"i": "1791",
+			"name": "metallilisand värvis"
+		},
+		{
+			"i": "1792",
+			"name": "metallipüüdur"
+		},
+		{
+			"i": "1793",
+			"name": "metalliseeritud viimistlus"
+		},
+		{
+			"i": "1794",
+			"name": "metallkeermelatt"
+		},
+		{
+			"i": "1795",
+			"name": "metallmööbel"
+		},
+		{
+			"i": "1796",
+			"name": "metsakuiv puit"
+		},
+		{
+			"i": "1797",
+			"name": "metsamaterjal"
+		},
+		{
+			"i": "1798",
+			"name": "metsatööstus"
+		},
+		{
+			"i": "1799",
+			"name": "metsatööstusjäätmed"
+		},
+		{
+			"i": "1800",
+			"name": "metüülmerkaptaan"
+		},
+		{
+			"i": "1801",
+			"name": "metüültselluloos"
+		},
+		{
+			"i": "1802",
+			"name": "mikrolainekuivatus"
+		},
+		{
+			"i": "1803",
+			"name": "mikropoorne pinnakate"
+		},
+		{
+			"i": "1804",
+			"name": "mitkal "
+		},
+		{
+			"i": "1805",
+			"name": "mitmekettaline saagpink  "
+		},
+		{
+			"i": "1806",
+			"name": "mitmepositsiooniline pink"
+		},
+		{
+			"i": "1807",
+			"name": "mitmesaeline ketassaagmasin"
+		},
+		{
+			"i": "1808",
+			"name": "mitmespindliline puurpink"
+		},
+		{
+			"i": "1809",
+			"name": "mitmevaheline press"
+		},
+		{
+			"i": "1810",
+			"name": "Mitscherlichi meetod"
+		},
+		{
+			"i": "1811",
+			"name": "mittekleepuv"
+		},
+		{
+			"i": "1812",
+			"name": "mittekuivav õli"
+		},
+		{
+			"i": "1813",
+			"name": "mittekuivava liimiga pind"
+		},
+		{
+			"i": "1814",
+			"name": "mittelahustuv pinnakate"
+		},
+		{
+			"i": "1815",
+			"name": "mitteläbiv peittapp"
+		},
+		{
+			"i": "1816",
+			"name": "mitteläbiv poolpeittapp"
+		},
+		{
+			"i": "1817",
+			"name": "mitteläbiv seotis"
+		},
+		{
+			"i": "1818",
+			"name": "mitteläbiva keelega T-seotis"
+		},
+		{
+			"i": "1819",
+			"name": "mittestandardne mõõde"
+		},
+		{
+			"i": "1820",
+			"name": "mittetasapinnalisus"
+		},
+		{
+			"i": "1821",
+			"name": "mittetüüpne uks"
+		},
+		{
+			"i": "1822",
+			"name": "modifitseeritud keet"
+		},
+		{
+			"i": "1823",
+			"name": "modifitseeritud puit"
+		},
+		{
+			"i": "1824",
+			"name": "monosulfittselluloos"
+		},
+		{
+			"i": "1825",
+			"name": "moodulmööbel"
+		},
+		{
+			"i": "1826",
+			"name": "moodustumine"
+		},
+		{
+			"i": "1827",
+			"name": "moodustus"
+		},
+		{
+			"i": "1828",
+			"name": "mootorsaag"
+		},
+		{
+			"i": "1829",
+			"name": "muaree"
+		},
+		{
+			"i": "1830",
+			"name": "mudel"
+		},
+		{
+			"i": "1831",
+			"name": "muhk (puidurike)"
+		},
+		{
+			"i": "1832",
+			"name": "muhk saekettas"
+		},
+		{
+			"i": "1833",
+			"name": "muljutis"
+		},
+		{
+			"i": "1834",
+			"name": "murdearv"
+		},
+		{
+			"i": "1835",
+			"name": "murdelaast"
+		},
+		{
+			"i": "1836",
+			"name": "murdetugevus"
+		},
+		{
+			"i": "1837",
+			"name": "murtud seljaga saehammas"
+		},
+		{
+			"i": "1838",
+			"name": "must lülipuit"
+		},
+		{
+			"i": "1839",
+			"name": "mustbaas(pind)"
+		},
+		{
+			"i": "1840",
+			"name": "mustkeet"
+		},
+		{
+			"i": "1841",
+			"name": "mustleelis"
+		},
+		{
+			"i": "1842",
+			"name": "musttoorik"
+		},
+		{
+			"i": "1843",
+			"name": "mustvöötsus"
+		},
+		{
+			"i": "1844",
+			"name": "mutter"
+		},
+		{
+			"i": "1845",
+			"name": "mõigashõõvel"
+		},
+		{
+			"i": "1846",
+			"name": "mõigasserv"
+		},
+		{
+			"i": "1847",
+			"name": "mõikafrees, mõigasservafrees"
+		},
+		{
+			"i": "1848",
+			"name": "mõlu"
+		},
+		{
+			"i": "1849",
+			"name": "mõõde"
+		},
+		{
+			"i": "1850",
+			"name": "mõõdulint"
+		},
+		{
+			"i": "1851",
+			"name": "mõõtanum"
+		},
+		{
+			"i": "1852",
+			"name": "mõõtebaas(pind)"
+		},
+		{
+			"i": "1853",
+			"name": "mõõteindikaator, kellindikaator  "
+		},
+		{
+			"i": "1854",
+			"name": "mõõteriist"
+		},
+		{
+			"i": "1855",
+			"name": "mõõteviga"
+		},
+		{
+			"i": "1856",
+			"name": "mõõtmeile seadistamine"
+		},
+		{
+			"i": "1857",
+			"name": "mõõtmine"
+		},
+		{
+			"i": "1858",
+			"name": "mõõtmistäpsus"
+		},
+		{
+			"i": "1859",
+			"name": "mõõtulõikamine"
+		},
+		{
+			"i": "1860",
+			"name": "mõõtusaetud puitmaterjal"
+		},
+		{
+			"i": "1861",
+			"name": "mõõtühik"
+		},
+		{
+			"i": "1862",
+			"name": "mädanik"
+		},
+		{
+			"i": "1863",
+			"name": "mädanikust kahjustatud"
+		},
+		{
+			"i": "1864",
+			"name": "mädaoks"
+		},
+		{
+			"i": "1865",
+			"name": "mägivaher"
+		},
+		{
+			"i": "1866",
+			"name": "mänd - harilik"
+		},
+		{
+			"i": "1867",
+			"name": "mänd, kiirjas"
+		},
+		{
+			"i": "1868",
+			"name": "mänguaed"
+		},
+		{
+			"i": "1869",
+			"name": "mängumööbel"
+		},
+		{
+			"i": "1870",
+			"name": "männipuit"
+		},
+		{
+			"i": "1871",
+			"name": "märg termomeeter"
+		},
+		{
+			"i": "1872",
+			"name": "märgamisvalts"
+		},
+		{
+			"i": "1873",
+			"name": "märgfiltreerimine"
+		},
+		{
+			"i": "1874",
+			"name": "märgistaja"
+		},
+		{
+			"i": "1875",
+			"name": "märgistus"
+		},
+		{
+			"i": "1876",
+			"name": "märgkoorimine"
+		},
+		{
+			"i": "1877",
+			"name": "märglihvimine"
+		},
+		{
+			"i": "1878",
+			"name": "märgpraak"
+		},
+		{
+			"i": "1879",
+			"name": "märk"
+		},
+		{
+			"i": "1880",
+			"name": "märkimine"
+		},
+		{
+			"i": "1881",
+			"name": "märkimisvahend"
+		},
+		{
+			"i": "1882",
+			"name": "märkimišabloon"
+		},
+		{
+			"i": "1883",
+			"name": "märkjoon"
+		},
+		{
+			"i": "1884",
+			"name": "märknõel"
+		},
+		{
+			"i": "1885",
+			"name": "mööbel"
+		},
+		{
+			"i": "1886",
+			"name": "mööbli alusriie"
+		},
+		{
+			"i": "1887",
+			"name": "mööbli alusriie"
+		},
+		{
+			"i": "1888",
+			"name": "mööbli kokkupanek"
+		},
+		{
+			"i": "1889",
+			"name": "mööbli konserveerimine"
+		},
+		{
+			"i": "1890",
+			"name": "mööbli lõikekaunistused"
+		},
+		{
+			"i": "1891",
+			"name": "mööbliese"
+		},
+		{
+			"i": "1892",
+			"name": "mööbligarnituur"
+		},
+		{
+			"i": "1893",
+			"name": "mööblikomplekt"
+		},
+		{
+			"i": "1894",
+			"name": "mööblinahk"
+		},
+		{
+			"i": "1895",
+			"name": "mööblinööp"
+		},
+		{
+			"i": "1896",
+			"name": "mööblipadi"
+		},
+		{
+			"i": "1897",
+			"name": "mööbliriie"
+		},
+		{
+			"i": "1898",
+			"name": "mööbliriie"
+		},
+		{
+			"i": "1899",
+			"name": "mööblisektsioon"
+		},
+		{
+			"i": "1900",
+			"name": "mööblitoonesepp"
+		},
+		{
+			"i": "1901",
+			"name": "mööblivedru"
+		},
+		{
+			"i": "1902",
+			"name": "mööblivedru"
+		},
+		{
+			"i": "1903",
+			"name": "mügarlik pind"
+		},
+		{
+			"i": "1904",
+			"name": "naagel"
+		},
+		{
+			"i": "1905",
+			"name": "naaskel"
+		},
+		{
+			"i": "1906",
+			"name": "naaskelpuur"
+		},
+		{
+			"i": "1907",
+			"name": "naatriumalus"
+		},
+		{
+			"i": "1908",
+			"name": "naatrontselluloos"
+		},
+		{
+			"i": "1909",
+			"name": "nael"
+		},
+		{
+			"i": "1910",
+			"name": "naelahaamer"
+		},
+		{
+			"i": "1911",
+			"name": "naelapüstol"
+		},
+		{
+			"i": "1912",
+			"name": "naelariba, naelutus/hakkeriba "
+		},
+		{
+			"i": "1913",
+			"name": "naelasõrg"
+		},
+		{
+			"i": "1914",
+			"name": "naelatangid, tangid"
+		},
+		{
+			"i": "1915",
+			"name": "naelseotis"
+		},
+		{
+			"i": "1916",
+			"name": "naelte või tihvtidega kinnitamine"
+		},
+		{
+			"i": "1917",
+			"name": "naelutatavus"
+		},
+		{
+			"i": "1918",
+			"name": "naelutusmasin"
+		},
+		{
+			"i": "1919",
+			"name": "nagi"
+		},
+		{
+			"i": "1920",
+			"name": "nahaliim"
+		},
+		{
+			"i": "1921",
+			"name": "nahalõikuslaud"
+		},
+		{
+			"i": "1922",
+			"name": "nahanuga"
+		},
+		{
+			"i": "1923",
+			"name": "nahapinguti"
+		},
+		{
+			"i": "1924",
+			"name": "nahkumine"
+		},
+		{
+			"i": "1925",
+			"name": "nakketugevus"
+		},
+		{
+			"i": "1926",
+			"name": "nakkevaba, mittekleepuv"
+		},
+		{
+			"i": "1927",
+			"name": "nakkevabaks kuivatamine"
+		},
+		{
+			"i": "1928",
+			"name": "nakkuv , kleepuv"
+		},
+		{
+			"i": "1929",
+			"name": "nakkuvus"
+		},
+		{
+			"i": "1930",
+			"name": "nanotselluloos"
+		},
+		{
+			"i": "1931",
+			"name": "nanotselluloos"
+		},
+		{
+			"i": "1932",
+			"name": "nari"
+		},
+		{
+			"i": "1933",
+			"name": "narivoodi"
+		},
+		{
+			"i": "1934",
+			"name": "narivoodi"
+		},
+		{
+			"i": "1935",
+			"name": "narmas"
+		},
+		{
+			"i": "1936",
+			"name": "narmas"
+		},
+		{
+			"i": "1937",
+			"name": "naturaalnahkmööbel"
+		},
+		{
+			"i": "1938",
+			"name": "naturaalnahkmööbel"
+		},
+		{
+			"i": "1939",
+			"name": "nelikanthöövelpink, nelikanthöövelmasin"
+		},
+		{
+			"i": "1940",
+			"name": "nelikantpruss"
+		},
+		{
+			"i": "1941",
+			"name": "nelinurkne"
+		},
+		{
+			"i": "1942",
+			"name": "neljakülje(nelikant)-pikifreesmasin"
+		},
+		{
+			"i": "1943",
+			"name": "neutraalne kampolliim"
+		},
+		{
+			"i": "1944",
+			"name": "nihik"
+		},
+		{
+			"i": "1945",
+			"name": "nihkepind"
+		},
+		{
+			"i": "1946",
+			"name": "nihketugevus, lõiketugevus"
+		},
+		{
+			"i": "1947",
+			"name": "nihkkoost"
+		},
+		{
+			"i": "1948",
+			"name": "nihkunud säsi"
+		},
+		{
+			"i": "1949",
+			"name": "niidikäärid"
+		},
+		{
+			"i": "1950",
+			"name": "niin"
+		},
+		{
+			"i": "1951",
+			"name": "niinekiir"
+		},
+		{
+			"i": "1952",
+			"name": "niiskus (puidul)"
+		},
+		{
+			"i": "1953",
+			"name": "niiskusdeformatsioon, puidu "mängimine""
+		},
+		{
+			"i": "1954",
+			"name": "niiskuse aste"
+		},
+		{
+			"i": "1955",
+			"name": "niiskuskindel paber"
+		},
+		{
+			"i": "1956",
+			"name": "niiskuskindlus"
+		},
+		{
+			"i": "1957",
+			"name": "niiskustasku"
+		},
+		{
+			"i": "1958",
+			"name": "niiskusvööt"
+		},
+		{
+			"i": "1959",
+			"name": "niisutamine"
+		},
+		{
+			"i": "1960",
+			"name": "nikerdamine"
+		},
+		{
+			"i": "1961",
+			"name": "nimimõõde, nominaalmõõde"
+		},
+		{
+			"i": "1962",
+			"name": "nire (värvi)"
+		},
+		{
+			"i": "1963",
+			"name": "nitrolahusti"
+		},
+		{
+			"i": "1964",
+			"name": "nitrotsellulooslakk, nitrolakk"
+		},
+		{
+			"i": "1965",
+			"name": "noasuport"
+		},
+		{
+			"i": "1966",
+			"name": "noaterituspink"
+		},
+		{
+			"i": "1967",
+			"name": "noavõll"
+		},
+		{
+			"i": "1968",
+			"name": "noavõlli seadistusvahend"
+		},
+		{
+			"i": "1969",
+			"name": "noavõll-laastur"
+		},
+		{
+			"i": "1970",
+			"name": "noolutamine"
+		},
+		{
+			"i": "1971",
+			"name": "noonius, vernjee"
+		},
+		{
+			"i": "1972",
+			"name": "nott, puitpakk"
+		},
+		{
+			"i": "1973",
+			"name": "novolakkfenoolvaik"
+		},
+		{
+			"i": "1974",
+			"name": "nuga, tera"
+		},
+		{
+			"i": "1975",
+			"name": "nugakoorel, nugakoorimismasin"
+		},
+		{
+			"i": "1976",
+			"name": "nugakoorimismasin"
+		},
+		{
+			"i": "1977",
+			"name": "nugalaastur"
+		},
+		{
+			"i": "1978",
+			"name": "nukkidega kettkonveier"
+		},
+		{
+			"i": "1979",
+			"name": "nulg - euroopa "
+		},
+		{
+			"i": "1980",
+			"name": "nupp"
+		},
+		{
+			"i": "1981",
+			"name": "nurgakapp"
+		},
+		{
+			"i": "1982",
+			"name": "nurgamööbliese"
+		},
+		{
+			"i": "1983",
+			"name": "nurgapitsik"
+		},
+		{
+			"i": "1984",
+			"name": "nurkparameeter"
+		},
+		{
+			"i": "1985",
+			"name": "nurkraamtappseotis"
+		},
+		{
+			"i": "1986",
+			"name": "nurkseotis"
+		},
+		{
+			"i": "1987",
+			"name": "nurktõmmits"
+		},
+		{
+			"i": "1988",
+			"name": "nuudihöövel e. soonehöövel"
+		},
+		{
+			"i": "1989",
+			"name": "nuudisaagpink"
+		},
+		{
+			"i": "1990",
+			"name": "nuut, soon"
+		},
+		{
+			"i": "1991",
+			"name": "NVR"
+		},
+		{
+			"i": "1992",
+			"name": "nõelaugud"
+		},
+		{
+			"i": "1993",
+			"name": "nõelkinnitamine, heftimine "
+		},
+		{
+			"i": "1994",
+			"name": "nõgus profiil"
+		},
+		{
+			"i": "1995",
+			"name": "nõgusus"
+		},
+		{
+			"i": "1996",
+			"name": "nõudekapp"
+		},
+		{
+			"i": "1997",
+			"name": "nähtamatu oks"
+		},
+		{
+			"i": "1998",
+			"name": "nähtav oks"
+		},
+		{
+			"i": "1999",
+			"name": "nähtav säsi"
+		},
+		{
+			"i": "2000",
+			"name": "näokaitse"
+		}
+]

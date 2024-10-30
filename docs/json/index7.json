@@ -1,0 +1,2038 @@
+[
+{
+			"i": "3001",
+			"name": "soojusjuhtivus"
+		},
+		{
+			"i": "3002",
+			"name": "soojusmahtuvus"
+		},
+		{
+			"i": "3003",
+			"name": "soojustus"
+		},
+		{
+			"i": "3004",
+			"name": "soon, trahee"
+		},
+		{
+			"i": "3005",
+			"name": "soonefrees"
+		},
+		{
+			"i": "3006",
+			"name": "soonefrees"
+		},
+		{
+			"i": "3007",
+			"name": "soonefrees, reguleeritav"
+		},
+		{
+			"i": "3008",
+			"name": "soonefreesmasin lamellidele"
+		},
+		{
+			"i": "3009",
+			"name": "soonepuhastushöövel"
+		},
+		{
+			"i": "3010",
+			"name": "soonestik"
+		},
+		{
+			"i": "3011",
+			"name": "soonimine"
+		},
+		{
+			"i": "3012",
+			"name": "soonpress"
+		},
+		{
+			"i": "3013",
+			"name": "soonrakk, juhtrakk"
+		},
+		{
+			"i": "3014",
+			"name": "soonte freesimine, soonte lõikamine"
+		},
+		{
+			"i": "3015",
+			"name": "sorteerimine"
+		},
+		{
+			"i": "3016",
+			"name": "sorteerimisjääk"
+		},
+		{
+			"i": "3017",
+			"name": "sorter"
+		},
+		{
+			"i": "3018",
+			"name": "sorterisõel"
+		},
+		{
+			"i": "3019",
+			"name": "sortija"
+		},
+		{
+			"i": "3020",
+			"name": "sortiment"
+		},
+		{
+			"i": "3021",
+			"name": "sortimine"
+		},
+		{
+			"i": "3022",
+			"name": "spagetti"
+		},
+		{
+			"i": "3023",
+			"name": "spetsiaalpink"
+		},
+		{
+			"i": "3024",
+			"name": "spindel"
+		},
+		{
+			"i": "3025",
+			"name": "spiraalfreesid"
+		},
+		{
+			"i": "3026",
+			"name": "spiraalkiulisus"
+		},
+		{
+			"i": "3027",
+			"name": "spiraalne noavõll"
+		},
+		{
+			"i": "3028",
+			"name": "spiraalnuga"
+		},
+		{
+			"i": "3029",
+			"name": "spiraalpuur"
+		},
+		{
+			"i": "3030",
+			"name": "spiraalsaag"
+		},
+		{
+			"i": "3031",
+			"name": "spiraalsoontega tüübel"
+		},
+		{
+			"i": "3032",
+			"name": "spiraalvalts"
+		},
+		{
+			"i": "3033",
+			"name": "spiraalvedru"
+		},
+		{
+			"i": "3034",
+			"name": "spm"
+		},
+		{
+			"i": "3035",
+			"name": "spoon"
+		},
+		{
+			"i": "3036",
+			"name": "spooni koostamine"
+		},
+		{
+			"i": "3037",
+			"name": "spooni lahtilõikussaag"
+		},
+		{
+			"i": "3038",
+			"name": "spooni parandamine"
+		},
+		{
+			"i": "3039",
+			"name": "spooni servjätkamispink"
+		},
+		{
+			"i": "3040",
+			"name": "spooni sobitamine"
+		},
+		{
+			"i": "3041",
+			"name": "spoonihööveldus"
+		},
+		{
+			"i": "3042",
+			"name": "spoonihöövelduspingi nuga"
+		},
+		{
+			"i": "3043",
+			"name": "spoonihöövelduspink"
+		},
+		{
+			"i": "3044",
+			"name": "spooniilõikamissaag"
+		},
+		{
+			"i": "3045",
+			"name": "spoonikatke"
+		},
+		{
+			"i": "3046",
+			"name": "spoonikerimispink"
+		},
+		{
+			"i": "3047",
+			"name": "spoonikoorimine"
+		},
+		{
+			"i": "3048",
+			"name": "spoonikoorimisjääk, pliiats"
+		},
+		{
+			"i": "3049",
+			"name": "spoonikoorimispingi nuga"
+		},
+		{
+			"i": "3050",
+			"name": "spoonikoorimispink"
+		},
+		{
+			"i": "3051",
+			"name": "spoonikoost, särk"
+		},
+		{
+			"i": "3052",
+			"name": "spoonilappimismasin"
+		},
+		{
+			"i": "3053",
+			"name": "spoonimine, vineerimine"
+		},
+		{
+			"i": "3054",
+			"name": "spoonimis(vineerimis)vead"
+		},
+		{
+			"i": "3055",
+			"name": "spooniparandusmasin"
+		},
+		{
+			"i": "3056",
+			"name": "spoonisaag, vineerisaag  "
+		},
+		{
+			"i": "3057",
+			"name": "spoonistants"
+		},
+		{
+			"i": "3058",
+			"name": "spoonkihtpuit "
+		},
+		{
+			"i": "3059",
+			"name": "spoonribapuit"
+		},
+		{
+			"i": "3060",
+			"name": "staabeldusseade"
+		},
+		{
+			"i": "3061",
+			"name": "staatiline balansseerimine"
+		},
+		{
+			"i": "3062",
+			"name": "staatiline seadistamine"
+		},
+		{
+			"i": "3063",
+			"name": "standard"
+		},
+		{
+			"i": "3064",
+			"name": "standardmõõtmetega puitmaterjal"
+		},
+		{
+			"i": "3065",
+			"name": "stants"
+		},
+		{
+			"i": "3066",
+			"name": "stantsimispress"
+		},
+		{
+			"i": "3067",
+			"name": "stellaaž"
+		},
+		{
+			"i": "3068",
+			"name": "stellaaž "
+		},
+		{
+			"i": "3069",
+			"name": "stellaažmööbel"
+		},
+		{
+			"i": "3070",
+			"name": "suitsugaas"
+		},
+		{
+			"i": "3071",
+			"name": "sukelduskatmine"
+		},
+		{
+			"i": "3072",
+			"name": "sula"
+		},
+		{
+			"i": "3073",
+			"name": "sulavliim "
+		},
+		{
+			"i": "3074",
+			"name": "suleriie"
+		},
+		{
+			"i": "3075",
+			"name": "suletud pooridega lakkimine"
+		},
+		{
+			"i": "3076",
+			"name": "sulfaatleelis"
+		},
+		{
+			"i": "3077",
+			"name": "sulfaatpaber, jõupaber"
+		},
+		{
+			"i": "3078",
+			"name": "sulfaatseep"
+		},
+		{
+			"i": "3079",
+			"name": "sulfaattselluloos"
+		},
+		{
+			"i": "3080",
+			"name": "sulfaattärpentiin"
+		},
+		{
+			"i": "3081",
+			"name": "sulfideerimine"
+		},
+		{
+			"i": "3082",
+			"name": "sulfiidsus"
+		},
+		{
+			"i": "3083",
+			"name": "sulfittselluloos"
+		},
+		{
+			"i": "3084",
+			"name": "sulfoneerimine"
+		},
+		{
+			"i": "3085",
+			"name": "sulgur"
+		},
+		{
+			"i": "3086",
+			"name": "sulund"
+		},
+		{
+			"i": "3087",
+			"name": "sulundamine"
+		},
+		{
+			"i": "3088",
+			"name": "sulundseotis"
+		},
+		{
+			"i": "3089",
+			"name": "sundtsirkulatsioon"
+		},
+		{
+			"i": "3090",
+			"name": "sundventilatsioon"
+		},
+		{
+			"i": "3091",
+			"name": "superkalander"
+		},
+		{
+			"i": "3092",
+			"name": "superpuit"
+		},
+		{
+			"i": "3093",
+			"name": "suport"
+		},
+		{
+			"i": "3094",
+			"name": "suportsaag"
+		},
+		{
+			"i": "3095",
+			"name": "suruõhk"
+		},
+		{
+			"i": "3096",
+			"name": "suruõhu liimipüstol"
+		},
+		{
+			"i": "3097",
+			"name": "suruõhupress, pneumopress"
+		},
+		{
+			"i": "3098",
+			"name": "surveaste"
+		},
+		{
+			"i": "3099",
+			"name": "surveelement"
+		},
+		{
+			"i": "3100",
+			"name": "surveimmutus"
+		},
+		{
+			"i": "3101",
+			"name": "survekast"
+		},
+		{
+			"i": "3102",
+			"name": "survelatt"
+		},
+		{
+			"i": "3103",
+			"name": "survesorter"
+		},
+		{
+			"i": "3104",
+			"name": "survetallaga lahtilõikussaag"
+		},
+		{
+			"i": "3105",
+			"name": "survetugevus"
+		},
+		{
+			"i": "3106",
+			"name": "survevanker"
+		},
+		{
+			"i": "3107",
+			"name": "suue"
+		},
+		{
+			"i": "3108",
+			"name": "suunamisaparaat"
+		},
+		{
+			"i": "3109",
+			"name": "suur sõrmjätk"
+		},
+		{
+			"i": "3110",
+			"name": "suure kuivainesisaldusega pinnakattematerjal"
+		},
+		{
+			"i": "3111",
+			"name": "suure õlisisaldusega alküüd"
+		},
+		{
+			"i": "3112",
+			"name": "suurim piirmõõde (ülemine piirmõõde?)"
+		},
+		{
+			"i": "3113",
+			"name": "suvilamööbel"
+		},
+		{
+			"i": "3114",
+			"name": "sõelabassein"
+		},
+		{
+			"i": "3115",
+			"name": "sõelajälg"
+		},
+		{
+			"i": "3116",
+			"name": "sõelakude"
+		},
+		{
+			"i": "3117",
+			"name": "sõelanumber"
+		},
+		{
+			"i": "3118",
+			"name": "sõelaosa, märgosa"
+		},
+		{
+			"i": "3119",
+			"name": "sõelaraputus"
+		},
+		{
+			"i": "3120",
+			"name": "sõelavesi"
+		},
+		{
+			"i": "3121",
+			"name": "sõelmädanik"
+		},
+		{
+			"i": "3122",
+			"name": "sõelpress"
+		},
+		{
+			"i": "3123",
+			"name": "sõelpõhjaga bassein"
+		},
+		{
+			"i": "3124",
+			"name": "sõelrakud"
+		},
+		{
+			"i": "3125",
+			"name": "sõeltorud"
+		},
+		{
+			"i": "3126",
+			"name": "sõeltransportöör"
+		},
+		{
+			"i": "3127",
+			"name": "sõeltrummel"
+		},
+		{
+			"i": "3128",
+			"name": "sõelumine"
+		},
+		{
+			"i": "3129",
+			"name": "sõrgoks"
+		},
+		{
+			"i": "3130",
+			"name": "sõrgvasar, naelatõmbamishaamer"
+		},
+		{
+			"i": "3131",
+			"name": "sõrm"
+		},
+		{
+			"i": "3132",
+			"name": "sõrmjätk, sõrmseotis"
+		},
+		{
+			"i": "3133",
+			"name": "sõrmjätkamisliin"
+		},
+		{
+			"i": "3134",
+			"name": "sõrmjätkamispink"
+		},
+		{
+			"i": "3135",
+			"name": "sõrmjätkamispress"
+		},
+		{
+			"i": "3136",
+			"name": "sõrmjätkatud puit"
+		},
+		{
+			"i": "3137",
+			"name": "sõrmtapifrees"
+		},
+		{
+			"i": "3138",
+			"name": "sälk"
+		},
+		{
+			"i": "3139",
+			"name": "säng"
+		},
+		{
+			"i": "3140",
+			"name": "säsi"
+		},
+		{
+			"i": "3141",
+			"name": "säsikiir"
+		},
+		{
+			"i": "3142",
+			"name": "säsilõhe"
+		},
+		{
+			"i": "3143",
+			"name": "säsilõhe"
+		},
+		{
+			"i": "3144",
+			"name": "söepõletamine, miilimine"
+		},
+		{
+			"i": "3145",
+			"name": "söepõletamine, miilimine"
+		},
+		{
+			"i": "3146",
+			"name": "söepõletus"
+		},
+		{
+			"i": "3147",
+			"name": "söestunud puit"
+		},
+		{
+			"i": "3148",
+			"name": "söögilaud"
+		},
+		{
+			"i": "3149",
+			"name": "söögitoamööbel"
+		},
+		{
+			"i": "3150",
+			"name": "söötelaud"
+		},
+		{
+			"i": "3151",
+			"name": "söötur"
+		},
+		{
+			"i": "3152",
+			"name": "südamik"
+		},
+		{
+			"i": "3153",
+			"name": "südamikupoolne lõikus"
+		},
+		{
+			"i": "3154",
+			"name": "sügavimmutus"
+		},
+		{
+			"i": "3155",
+			"name": "sügavuspiirik (puuril)"
+		},
+		{
+			"i": "3156",
+			"name": "sügispuit"
+		},
+		{
+			"i": "3157",
+			"name": "sümmeetriline kihtpuit"
+		},
+		{
+			"i": "3158",
+			"name": "süngaas"
+		},
+		{
+			"i": "3159",
+			"name": "sünteetiline pigment"
+		},
+		{
+			"i": "3160",
+			"name": "sünteetiline spoon"
+		},
+		{
+			"i": "3161",
+			"name": "sünteetiline teemant"
+		},
+		{
+			"i": "3162",
+			"name": "sünteetiline vaik, sünteesvaik"
+		},
+		{
+			"i": "3163",
+			"name": "sünteetiline vaikliim"
+		},
+		{
+			"i": "3164",
+			"name": "süsinikteras"
+		},
+		{
+			"i": "3165",
+			"name": "süsivesikute lõhustumine"
+		},
+		{
+			"i": "3166",
+			"name": "süttimispunkt, leektäpp"
+		},
+		{
+			"i": "3167",
+			"name": "süttivus"
+		},
+		{
+			"i": "3168",
+			"name": "süvend"
+		},
+		{
+			"i": "3169",
+			"name": "süvipuur, senkpuur"
+		},
+		{
+			"i": "3170",
+			"name": "süvis"
+		},
+		{
+			"i": "3171",
+			"name": "šabloon"
+		},
+		{
+			"i": "3172",
+			"name": "šabloonipapp"
+		},
+		{
+			"i": "3173",
+			"name": "šarniirhing"
+		},
+		{
+			"i": "3174",
+			"name": "šellaklakk, prantsuse lakk"
+		},
+		{
+			"i": "3175",
+			"name": "šellakpolituur"
+		},
+		{
+			"i": "3176",
+			"name": "taaralauad"
+		},
+		{
+			"i": "3177",
+			"name": "taarapakk"
+		},
+		{
+			"i": "3178",
+			"name": "taaratööstus"
+		},
+		{
+			"i": "3179",
+			"name": "taatlemine"
+		},
+		{
+			"i": "3180",
+			"name": "taburet"
+		},
+		{
+			"i": "3181",
+			"name": "taganurk"
+		},
+		{
+			"i": "3182",
+			"name": "tagapukk, kärnipukk"
+		},
+		{
+			"i": "3183",
+			"name": "tagapukk, tagumine tsenterpukk"
+		},
+		{
+			"i": "3184",
+			"name": "tagasein"
+		},
+		{
+			"i": "3185",
+			"name": "tagasilöögikaitse"
+		},
+		{
+			"i": "3186",
+			"name": "tagatahk, hambaselg"
+		},
+		{
+			"i": "3187",
+			"name": "tagatahu kaldteritusnurk"
+		},
+		{
+			"i": "3188",
+			"name": "tahhogeneraator"
+		},
+		{
+			"i": "3189",
+			"name": "tahk, luisk"
+		},
+		{
+			"i": "3190",
+			"name": "tahmpigment"
+		},
+		{
+			"i": "3191",
+			"name": "tahumine"
+		},
+		{
+			"i": "3192",
+			"name": "tahumiskirves, puusepakirves"
+		},
+		{
+			"i": "3193",
+			"name": "tahutud palk"
+		},
+		{
+			"i": "3194",
+			"name": "tahvel"
+		},
+		{
+			"i": "3195",
+			"name": "taimne liim"
+		},
+		{
+			"i": "3196",
+			"name": "takjapael"
+		},
+		{
+			"i": "3197",
+			"name": "tala"
+		},
+		{
+			"i": "3198",
+			"name": "taldlihvik, vibrolihvik"
+		},
+		{
+			"i": "3199",
+			"name": "taldriktoitur"
+		},
+		{
+			"i": "3200",
+			"name": "tallõli"
+		},
+		{
+			"i": "3201",
+			"name": "tallõlialküüd"
+		},
+		{
+			"i": "3202",
+			"name": "tamburivalts"
+		},
+		{
+			"i": "3203",
+			"name": "tamm - harilik"
+		},
+		{
+			"i": "3204",
+			"name": "tamme pruunisus"
+		},
+		{
+			"i": "3205",
+			"name": "tamsa, õmblusnöör"
+		},
+		{
+			"i": "3206",
+			"name": "tangentsiaallõige"
+		},
+		{
+			"i": "3207",
+			"name": "tangentsiaallõikus"
+		},
+		{
+			"i": "3208",
+			"name": "tangentsiaalnõgususnurk"
+		},
+		{
+			"i": "3209",
+			"name": "tangentsiaalsaematerjal"
+		},
+		{
+			"i": "3210",
+			"name": "tanniin"
+		},
+		{
+			"i": "3211",
+			"name": "tapeedipaber"
+		},
+		{
+			"i": "3212",
+			"name": "tapifrees"
+		},
+		{
+			"i": "3213",
+			"name": "tapifrees"
+		},
+		{
+			"i": "3214",
+			"name": "tapikahvel"
+		},
+		{
+			"i": "3215",
+			"name": "tapikeel"
+		},
+		{
+			"i": "3216",
+			"name": "tapikeelega eerungnurk"
+		},
+		{
+			"i": "3217",
+			"name": "tapikiil"
+		},
+		{
+			"i": "3218",
+			"name": "tapipeitel"
+		},
+		{
+			"i": "3219",
+			"name": "tapipesa"
+		},
+		{
+			"i": "3220",
+			"name": "tapipõsk"
+		},
+		{
+			"i": "3221",
+			"name": "tapisaag"
+		},
+		{
+			"i": "3222",
+			"name": "tapiõlg"
+		},
+		{
+			"i": "3223",
+			"name": "tapphing"
+		},
+		{
+			"i": "3224",
+			"name": "tappseotis"
+		},
+		{
+			"i": "3225",
+			"name": "tarbepuit"
+		},
+		{
+			"i": "3226",
+			"name": "tarbevärv"
+		},
+		{
+			"i": "3227",
+			"name": "tarrendvärv"
+		},
+		{
+			"i": "3228",
+			"name": "tarvik"
+		},
+		{
+			"i": "3229",
+			"name": "tasakaaluniiskus"
+		},
+		{
+			"i": "3230",
+			"name": "tasandusfrees"
+		},
+		{
+			"i": "3231",
+			"name": "tasandusklots"
+		},
+		{
+			"i": "3232",
+			"name": "tasandusvalts, eguttervalts"
+		},
+		{
+			"i": "3233",
+			"name": "tasapinnaline pesafrees, nihkliikumisega pesafrees"
+		},
+		{
+			"i": "3234",
+			"name": "taster"
+		},
+		{
+			"i": "3235",
+			"name": "taustanööbi ja konksuga kinnitus"
+		},
+		{
+			"i": "3236",
+			"name": "TCT"
+		},
+		{
+			"i": "3237",
+			"name": "teemantlõikeriist"
+		},
+		{
+			"i": "3238",
+			"name": "tegelik mõõde"
+		},
+		{
+			"i": "3239",
+			"name": "tehas"
+		},
+		{
+			"i": "3240",
+			"name": "tehniline seadistamine"
+		},
+		{
+			"i": "3241",
+			"name": "tehnilised tingimused"
+		},
+		{
+			"i": "3242",
+			"name": "tehnoloogiakaart"
+		},
+		{
+			"i": "3243",
+			"name": "tehnoloogiaprotsess"
+		},
+		{
+			"i": "3244",
+			"name": "tehnoloogiaprotsessi staadium"
+		},
+		{
+			"i": "3245",
+			"name": "tehnoloogiaskeem"
+		},
+		{
+			"i": "3246",
+			"name": "tehnoloogiline baas(pind)"
+		},
+		{
+			"i": "3247",
+			"name": "tehnoloogiline distsipliin"
+		},
+		{
+			"i": "3248",
+			"name": "tehnoloogiline dokumentatsioon"
+		},
+		{
+			"i": "3249",
+			"name": "tehnoloogiline ebatasasus"
+		},
+		{
+			"i": "3250",
+			"name": "tehnoloogiline hoidmine"
+		},
+		{
+			"i": "3251",
+			"name": "tehnoloogiline konveier"
+		},
+		{
+			"i": "3252",
+			"name": "tehnoloogiline operatsioon"
+		},
+		{
+			"i": "3253",
+			"name": "tehnoloogiline vesi"
+		},
+		{
+			"i": "3254",
+			"name": "tehnoloogilisus"
+		},
+		{
+			"i": "3255",
+			"name": "teivas"
+		},
+		{
+			"i": "3256",
+			"name": "teks"
+		},
+		{
+			"i": "3257",
+			"name": "tekstuur"
+		},
+		{
+			"i": "3258",
+			"name": "tekstuuri ilmestamine"
+		},
+		{
+			"i": "3259",
+			"name": "tekstuuri järgi komplekteerima"
+		},
+		{
+			"i": "3260",
+			"name": "tekstuurpaber"
+		},
+		{
+			"i": "3261",
+			"name": "tekstuurpinnakate"
+		},
+		{
+			"i": "3262",
+			"name": "tekstuurtrükk paberil"
+		},
+		{
+			"i": "3263",
+			"name": "teleskoopmõõdik"
+		},
+		{
+			"i": "3264",
+			"name": "teleskoopsiin"
+		},
+		{
+			"i": "3265",
+			"name": "telg"
+		},
+		{
+			"i": "3266",
+			"name": "telgspiraalpuur, Irvin-spiraalpuur"
+		},
+		{
+			"i": "3267",
+			"name": "tempermalm"
+		},
+		{
+			"i": "3268",
+			"name": "tenderpost"
+		},
+		{
+			"i": "3269",
+			"name": "tepitud"
+		},
+		{
+			"i": "3270",
+			"name": "tepitud"
+		},
+		{
+			"i": "3271",
+			"name": "tepitud mööblikate"
+		},
+		{
+			"i": "3272",
+			"name": "tepitud mööblikate"
+		},
+		{
+			"i": "3273",
+			"name": "tepitud vahekiht"
+		},
+		{
+			"i": "3274",
+			"name": "terade vahetus"
+		},
+		{
+			"i": "3275",
+			"name": "teralisus"
+		},
+		{
+			"i": "3276",
+			"name": "teras"
+		},
+		{
+			"i": "3277",
+			"name": "terassilaud"
+		},
+		{
+			"i": "3278",
+			"name": "terastraat"
+		},
+		{
+			"i": "3279",
+			"name": "teravdusnurk, teritusnurk"
+		},
+		{
+			"i": "3280",
+			"name": "teritamine"
+		},
+		{
+			"i": "3281",
+			"name": "teritusmasin"
+		},
+		{
+			"i": "3282",
+			"name": "teritusraud"
+		},
+		{
+			"i": "3283",
+			"name": "teritusrihm"
+		},
+		{
+			"i": "3284",
+			"name": "termomehaaniline puitmass"
+		},
+		{
+			"i": "3285",
+			"name": "termopadrun"
+		},
+		{
+			"i": "3286",
+			"name": "termoplastne"
+		},
+		{
+			"i": "3287",
+			"name": "termopuit"
+		},
+		{
+			"i": "3288",
+			"name": "termoreaktiivne"
+		},
+		{
+			"i": "3289",
+			"name": "termotöötlus"
+		},
+		{
+			"i": "3290",
+			"name": "terpeenid"
+		},
+		{
+			"i": "3291",
+			"name": "terve oks"
+		},
+		{
+			"i": "3292",
+			"name": "tervikfrees"
+		},
+		{
+			"i": "3293",
+			"name": "tervikmööbel"
+		},
+		{
+			"i": "3294",
+			"name": "testlainer"
+		},
+		{
+			"i": "3295",
+			"name": "tigudefibröör"
+		},
+		{
+			"i": "3296",
+			"name": "tigupuur"
+		},
+		{
+			"i": "3297",
+			"name": "tigureaktor"
+		},
+		{
+			"i": "3298",
+			"name": "tigutoitur, tigukonveier"
+		},
+		{
+			"i": "3299",
+			"name": "tiguvõll"
+		},
+		{
+			"i": "3300",
+			"name": "tiguülekanne"
+		},
+		{
+			"i": "3301",
+			"name": "tihe puiste"
+		},
+		{
+			"i": "3302",
+			"name": "tihe tekstuur"
+		},
+		{
+			"i": "3303",
+			"name": "tihe virnastus"
+		},
+		{
+			"i": "3304",
+			"name": "tihedus"
+		},
+		{
+			"i": "3305",
+			"name": "tihend"
+		},
+		{
+			"i": "3306",
+			"name": "tihendamine"
+		},
+		{
+			"i": "3307",
+			"name": "tihendi"
+		},
+		{
+			"i": "3308",
+			"name": "tihkestatud õli"
+		},
+		{
+			"i": "3309",
+			"name": "tihumeeter"
+		},
+		{
+			"i": "3310",
+			"name": "tihvt"
+		},
+		{
+			"i": "3311",
+			"name": "tiiblaud"
+		},
+		{
+			"i": "3312",
+			"name": "tiiboks"
+		},
+		{
+			"i": "3313",
+			"name": "tiikpuu - suur"
+		},
+		{
+			"i": "3314",
+			"name": "tiiviklus, keerdumus"
+		},
+		{
+			"i": "3315",
+			"name": "tikk-, augu-, orasaag"
+		},
+		{
+			"i": "3316",
+			"name": "tikk."
+		},
+		{
+			"i": "3317",
+			"name": "tikksaagmasin"
+		},
+		{
+			"i": "3318",
+			"name": "tiksotroopne värv"
+		},
+		{
+			"i": "3319",
+			"name": "tikukarbi toorik"
+		},
+		{
+			"i": "3320",
+			"name": "tikukarbispoon"
+		},
+		{
+			"i": "3321",
+			"name": "tikupakk"
+		},
+		{
+			"i": "3322",
+			"name": "tikuspooni koorimine"
+		},
+		{
+			"i": "3323",
+			"name": "tikutraat"
+		},
+		{
+			"i": "3324",
+			"name": "tipulõtk"
+		},
+		{
+			"i": "3325",
+			"name": "tipunurk"
+		},
+		{
+			"i": "3326",
+			"name": "tisler, laudsepp?"
+		},
+		{
+			"i": "3327",
+			"name": "tisleri tapipeitel"
+		},
+		{
+			"i": "3328",
+			"name": "tislerilintsaag"
+		},
+		{
+			"i": "3329",
+			"name": "tisleripingi plaat"
+		},
+		{
+			"i": "3330",
+			"name": "tisleripink, höövelpink, kruupink"
+		},
+		{
+			"i": "3331",
+			"name": "tisleriplaat"
+		},
+		{
+			"i": "3332",
+			"name": "tisleripuit"
+		},
+		{
+			"i": "3333",
+			"name": "tisleritooted, laudsepatooted"
+		},
+		{
+			"i": "3334",
+			"name": "tisleritöö, laudsepatöö"
+		},
+		{
+			"i": "3335",
+			"name": "toiteava"
+		},
+		{
+			"i": "3336",
+			"name": "tolerants"
+		},
+		{
+			"i": "3337",
+			"name": "tollipulk"
+		},
+		{
+			"i": "3338",
+			"name": "tolmamine"
+		},
+		{
+			"i": "3339",
+			"name": "tolmukindlad prillid"
+		},
+		{
+			"i": "3340",
+			"name": "tolmumask"
+		},
+		{
+			"i": "3341",
+			"name": "toodangu omahind"
+		},
+		{
+			"i": "3342",
+			"name": "tool"
+		},
+		{
+			"i": "3343",
+			"name": "toonimine"
+		},
+		{
+			"i": "3344",
+			"name": "toonirike"
+		},
+		{
+			"i": "3345",
+			"name": "toores puit"
+		},
+		{
+			"i": "3346",
+			"name": "toorhape, tornihape"
+		},
+		{
+			"i": "3347",
+			"name": "toorik"
+		},
+		{
+			"i": "3348",
+			"name": "tooriku kinnitussüsteem"
+		},
+		{
+			"i": "3349",
+			"name": "tootmisjäätmed "
+		},
+		{
+			"i": "3350",
+			"name": "tootmisniiskus"
+		},
+		{
+			"i": "3351",
+			"name": "tootmisprotsess"
+		},
+		{
+			"i": "3352",
+			"name": "tootmisvõimsus"
+		},
+		{
+			"i": "3353",
+			"name": "tootmisüksus"
+		},
+		{
+			"i": "3354",
+			"name": "topeltkõverusega painutatud toorik"
+		},
+		{
+			"i": "3355",
+			"name": "topeltpits, topeltnõel"
+		},
+		{
+			"i": "3356",
+			"name": "topeltsäsi"
+		},
+		{
+			"i": "3357",
+			"name": "toplainer"
+		},
+		{
+			"i": "3358",
+			"name": "torkimine (immutuseelne töötlus)"
+		},
+		{
+			"i": "3359",
+			"name": "tpi"
+		},
+		{
+			"i": "3360",
+			"name": "T-raamtappseotis"
+		},
+		{
+			"i": "3361",
+			"name": "traatalus"
+		},
+		{
+			"i": "3362",
+			"name": "trahheiid"
+		},
+		{
+			"i": "3363",
+			"name": "transportkuiv puit?"
+		},
+		{
+			"i": "3364",
+			"name": "transportniiskus"
+		},
+		{
+			"i": "3365",
+			"name": "transportöör, konveier"
+		},
+		{
+			"i": "3366",
+			"name": "treimine"
+		},
+		{
+			"i": "3367",
+			"name": "treipadrun - universaalne"
+		},
+		{
+			"i": "3368",
+			"name": "treipeitel"
+		},
+		{
+			"i": "3369",
+			"name": "treipink"
+		},
+		{
+			"i": "3370",
+			"name": "treipuit"
+		},
+		{
+			"i": "3371",
+			"name": "treispoon, kooritud spoon"
+		},
+		{
+			"i": "3372",
+			"name": "treitsenter"
+		},
+		{
+			"i": "3373",
+			"name": "trepi astmelaud"
+		},
+		{
+			"i": "3374",
+			"name": "trepi jooks"
+		},
+		{
+			"i": "3375",
+			"name": "trepi põskpuu"
+		},
+		{
+			"i": "3376",
+			"name": "trepi tõus"
+		},
+		{
+			"i": "3377",
+			"name": "trepi varvaslaud"
+		},
+		{
+			"i": "3378",
+			"name": "trepikäsipuu"
+		},
+		{
+			"i": "3379",
+			"name": "trepimade, podest"
+		},
+		{
+			"i": "3380",
+			"name": "trepimarss, trepikäik"
+		},
+		{
+			"i": "3381",
+			"name": "triibuline tekstuur"
+		},
+		{
+			"i": "3382",
+			"name": "trikotaažmööbliriie"
+		},
+		{
+			"i": "3383",
+			"name": "trikotaažmööbliriie"
+		},
+		{
+			"i": "3384",
+			"name": "trillpuur"
+		},
+		{
+			"i": "3385",
+			"name": "trimmer"
+		},
+		{
+			"i": "3386",
+			"name": "trummel"
+		},
+		{
+			"i": "3387",
+			"name": "trummelhakkur, trummelraiemasin"
+		},
+		{
+			"i": "3388",
+			"name": "trummelkatmine"
+		},
+		{
+			"i": "3389",
+			"name": "trummelkoorel, trummelkoorimismasin"
+		},
+		{
+			"i": "3390",
+			"name": "trummelkoorimine"
+		},
+		{
+			"i": "3391",
+			"name": "trummelkuivati"
+		},
+		{
+			"i": "3392",
+			"name": "trummellaastur"
+		},
+		{
+			"i": "3393",
+			"name": "trummellihvpink"
+		},
+		{
+			"i": "3394",
+			"name": "trummelpesur"
+		},
+		{
+			"i": "3395",
+			"name": "trummelpoleermasin"
+		},
+		{
+			"i": "3396",
+			"name": "trummelsorter"
+		},
+		{
+			"i": "3397",
+			"name": "trummelsorter"
+		},
+		{
+			"i": "3398",
+			"name": "trükipaber"
+		},
+		{
+			"i": "3399",
+			"name": "trükitavus"
+		},
+		{
+			"i": "3400",
+			"name": "trükivärvi eemaldamine"
+		},
+		{
+			"i": "3401",
+			"name": "tsang, haaratspuks"
+		},
+		{
+			"i": "3402",
+			"name": "tsangpadrun"
+		},
+		{
+			"i": "3403",
+			"name": "tsellobioos"
+		},
+		{
+			"i": "3404",
+			"name": "tsellofaan"
+		},
+		{
+			"i": "3405",
+			"name": "tselluloos"
+		},
+		{
+			"i": "3406",
+			"name": "tselluloos"
+		},
+		{
+			"i": "3407",
+			"name": "tselluloosi keet"
+		},
+		{
+			"i": "3408",
+			"name": "tselluloositehas"
+		},
+		{
+			"i": "3409",
+			"name": "tselluloosksantogenaat"
+		},
+		{
+			"i": "3410",
+			"name": "tsellulooslakk"
+		},
+		{
+			"i": "3411",
+			"name": "tselluloosnitraat"
+		},
+		{
+			"i": "3412",
+			"name": "tselluloospaber"
+		},
+		{
+			"i": "3413",
+			"name": "tselluloosvatt"
+		},
+		{
+			"i": "3414",
+			"name": "tsenterpuur"
+		},
+		{
+			"i": "3415",
+			"name": "tsentreerimisava"
+		},
+		{
+			"i": "3416",
+			"name": "tsentreerimismehhanism"
+		},
+		{
+			"i": "3417",
+			"name": "tsentrifugaallaastur"
+		},
+		{
+			"i": "3418",
+			"name": "tsentrikliiner, tsentrisorter"
+		},
+		{
+			"i": "3419",
+			"name": "tsentrimärkija"
+		},
+		{
+			"i": "3420",
+			"name": "T-seotis"
+		},
+		{
+			"i": "3421",
+			"name": "tsikeldamine, kaaplihvimine"
+		},
+		{
+			"i": "3422",
+			"name": "tsikeldusmasin, kaaplihvimispink"
+		},
+		{
+			"i": "3423",
+			"name": "tsirkulatsioonibassein"
+		},
+		{
+			"i": "3424",
+			"name": "tsuuga - kanada"
+		},
+		{
+			"i": "3425",
+			"name": "tsuuga - lääne"
+		},
+		{
+			"i": "3426",
+			"name": "tsüklon"
+		},
+		{
+			"i": "3427",
+			"name": "tsüklonauruti"
+		},
+		{
+			"i": "3428",
+			"name": "tualettlaua tool"
+		},
+		{
+			"i": "3429",
+			"name": "tualettlaud"
+		},
+		{
+			"i": "3430",
+			"name": "tubakoks"
+		},
+		{
+			"i": "3431",
+			"name": "tugevus"
+		},
+		{
+			"i": "3432",
+			"name": "tugevusklass"
+		},
+		{
+			"i": "3433",
+			"name": "tugevuspiir"
+		},
+		{
+			"i": "3434",
+			"name": "tugevussortimine"
+		},
+		{
+			"i": "3435",
+			"name": "tugi"
+		},
+		{
+			"i": "3436",
+			"name": "tugi- ja juhtseadmed"
+		},
+		{
+			"i": "3437",
+			"name": "tugiklots, piirik, piirdeklots"
+		},
+		{
+			"i": "3438",
+			"name": "tugikude"
+		},
+		{
+			"i": "3439",
+			"name": "tugilatt"
+		},
+		{
+			"i": "3440",
+			"name": "tugipukk"
+		},
+		{
+			"i": "3441",
+			"name": "tugirõngas"
+		},
+		{
+			"i": "3442",
+			"name": "tugisidumine"
+		},
+		{
+			"i": "3443",
+			"name": "tugitool"
+		},
+		{
+			"i": "3444",
+			"name": "tugitool"
+		},
+		{
+			"i": "3445",
+			"name": "tugitoolvoodi"
+		},
+		{
+			"i": "3446",
+			"name": "tugitoolvoodi"
+		},
+		{
+			"i": "3447",
+			"name": "tugivanker"
+		},
+		{
+			"i": "3448",
+			"name": "tuhasus"
+		},
+		{
+			"i": "3449",
+			"name": "tule levikut takistav värv"
+		},
+		{
+			"i": "3450",
+			"name": "tuleaeglusti"
+		},
+		{
+			"i": "3451",
+			"name": "tulekaitseimmutus"
+		},
+		{
+			"i": "3452",
+			"name": "tulekaitsevärv"
+		},
+		{
+			"i": "3453",
+			"name": "tulekindel"
+		},
+		{
+			"i": "3454",
+			"name": "tulekindluskatse"
+		},
+		{
+			"i": "3455",
+			"name": "tuletõkkeriie, flammriie"
+		},
+		{
+			"i": "3456",
+			"name": "tulv"
+		},
+		{
+			"i": "3457",
+			"name": "tume mõlu"
+		},
+		{
+			"i": "3458",
+			"name": "tungaõli "
+		},
+		{
+			"i": "3459",
+			"name": "tunnelkuivati, pidevkuivati"
+		},
+		{
+			"i": "3460",
+			"name": "tunnus"
+		},
+		{
+			"i": "3461",
+			"name": "tunnustugevus"
+		},
+		{
+			"i": "3462",
+			"name": "tunnusväärtus"
+		},
+		{
+			"i": "3463",
+			"name": "turvaelement"
+		},
+		{
+			"i": "3464",
+			"name": "tõkesti"
+		},
+		{
+			"i": "3465",
+			"name": "tõllas(s)epp, tõldsepp"
+		},
+		{
+			"i": "3466",
+			"name": "tõmbepuit"
+		},
+		{
+			"i": "3467",
+			"name": "tõmbetugevus"
+		},
+		{
+			"i": "3468",
+			"name": "tõmmits"
+		},
+		{
+			"i": "3469",
+			"name": "tõrs"
+		},
+		{
+			"i": "3470",
+			"name": "tõstelaud"
+		},
+		{
+			"i": "3471",
+			"name": "tõstelaud"
+		},
+		{
+			"i": "3472",
+			"name": "tõste-teisaldusseadmed"
+		},
+		{
+			"i": "3473",
+			"name": "tõugukäik"
+		},
+		{
+			"i": "3474",
+			"name": "tõugurike, putukkahjustus"
+		},
+		{
+			"i": "3475",
+			"name": "tõukeline etteanne raamsaagimisel"
+		},
+		{
+			"i": "3476",
+			"name": "tõukur"
+		},
+		{
+			"i": "3477",
+			"name": "tähekujuline säsi"
+		},
+		{
+			"i": "3478",
+			"name": "täidis"
+		},
+		{
+			"i": "3479",
+			"name": "täisimmutus"
+		},
+		{
+			"i": "3480",
+			"name": "täisnurgik, vinkel"
+		},
+		{
+			"i": "3481",
+			"name": "täisnurkne"
+		},
+		{
+			"i": "3482",
+			"name": "täispuit, massiivpuit"
+		},
+		{
+			"i": "3483",
+			"name": "täispuitdetail"
+		},
+		{
+			"i": "3484",
+			"name": "täispuitmööbel"
+		},
+		{
+			"i": "3485",
+			"name": "täispuitplaat"
+		},
+		{
+			"i": "3486",
+			"name": "täispuittoorik"
+		},
+		{
+			"i": "3487",
+			"name": "täisradiaalne saematerjal"
+		},
+		{
+			"i": "3488",
+			"name": "täiteaasad"
+		},
+		{
+			"i": "3489",
+			"name": "täiteaine"
+		},
+		{
+			"i": "3490",
+			"name": "täiteaineta paber"
+		},
+		{
+			"i": "3491",
+			"name": "täitekolu"
+		},
+		{
+			"i": "3492",
+			"name": "täitetegur"
+		},
+		{
+			"i": "3493",
+			"name": "täitmine"
+		},
+		{
+			"i": "3494",
+			"name": "täpilisus"
+		},
+		{
+			"i": "3495",
+			"name": "täpne mõõde"
+		},
+		{
+			"i": "3496",
+			"name": "tärklis"
+		},
+		{
+			"i": "3497",
+			"name": "tärklisliim"
+		},
+		{
+			"i": "3498",
+			"name": "tärpentin"
+		},
+		{
+			"i": "3499",
+			"name": "tökat"
+		},
+		{
+			"i": "3500",
+			"name": "töödeldav detail, toorik"
+		},
+		{
+			"i": "3501",
+			"name": "töödeldavus"
+		},
+		{
+			"i": "3502",
+			"name": "töödeldud saematerjal"
+		},
+		{
+			"i": "3503",
+			"name": "tööjoonis"
+		},
+		{
+			"i": "3504",
+			"name": "töökaitse-eeskiri  "
+		},
+		{
+			"i": "3505",
+			"name": "töökaliiber"
+		},
+		{
+			"i": "3506",
+			"name": "töökindlus (paberimasinal)"
+		},
+		{
+			"i": "3507",
+			"name": "töökoht"
+		},
+		{
+			"i": "3508",
+			"name": "töökäik"
+		},
+		{
+			"i": "3509",
+			"name": "töölahus"
+		}
+]
