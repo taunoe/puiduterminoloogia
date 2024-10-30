@@ -1,0 +1,304 @@
+<!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+
+<html lang="et">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Puiduterminoloogia sõnastik">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Puiduterminoloogia sõnastik - Tsenter</title>
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
+  	<link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
+  	<link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
+  	<link rel="apple-touch-icon" sizes="76x76" href="icons/apple-icon-76x76.png">
+  	<link rel="apple-touch-icon" sizes="114x114" href="icons/apple-icon-114x114.png">
+  	<link rel="apple-touch-icon" sizes="120x120" href="icons/apple-icon-120x120.png">
+  	<link rel="apple-touch-icon" sizes="144x144" href="icons/apple-icon-144x144.png">
+  	<link rel="apple-touch-icon" sizes="152x152" href="icons/apple-icon-152x152.png">
+  	<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-icon-180x180.png">
+  	<link rel="icon" type="image/png" sizes="192x192"  href="icons/android-icon-192x192.png">
+  	<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+  	<link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
+  	<link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+  	<link rel="shortcut icon" href="icons/favicon.ico" />
+  	<link rel="manifest" href="icons/manifest.json">
+  	<meta name="msapplication-TileColor" content="#ffffff">
+  	<meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
+  	<meta name="theme-color" content="#ffffff">
+
+    <!-- Page styles -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/material.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+
+      <div class="android-header mdl-layout__header mdl-layout__header--waterfall">
+        <div class="mdl-layout__header-row">
+          <span class="android-title mdl-layout-title">
+            <img class="tsenter-logo-image" src="images/tsenter-h-logo-main.png">
+          </span>
+          <!-- Add spacer, to align navigation to the right in desktop -->
+          <div class="android-header-spacer mdl-layout-spacer"></div>
+          <div class="android-search-box mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right mdl-textfield--full-width">
+            <label class="mdl-button mdl-js-button mdl-button--icon" for="search-field">
+              <i class="material-icons">search</i><!-- ära seda muuda //-->
+            </label>
+            <div class="mdl-textfield__expandable-holder">
+              <input class="mdl-textfield__input" type="text" id="search-field" placeholder="Otsi ..." />
+            </div>
+          </div>
+ 
+          <button class="android-more-button mdl-button mdl-js-button mdl-button--icon mdl-js-ripple-effect" id="more-button">
+            <i class="material-icons">more_vert</i><!-- ära seda muuda: 3 punkti //-->
+          </button>
+          <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right mdl-js-ripple-effect" for="more-button">
+            <li class="mdl-menu__item">Midagi</li>
+            <li class="mdl-menu__item">Kedagi</li>
+            <li disabled class="mdl-menu__item">Sedagi</li>
+            <li class="mdl-menu__item">Veelgi</li>
+          </ul>
+          <span class="android-mobile-title mdl-layout-title">
+            <img class="tsenter-logo-image" src="images/tsenter-h-logo-main.png">
+          </span>
+        </div>
+      </div>
+
+      <div class="tsenter-drawer mdl-layout__drawer">
+        <span class="mdl-layout-title">
+          <a href="index.html"><img class="tsenter-logo-image" src="images/tsenter-h-logo.png"></a>
+        </span>
+        <nav class="mdl-navigation">
+          <span class="mdl-navigation__link" href="">Terminite nimekiri</span>
+          <a class="mdl-navigation__link" id="eesti-link" ><span>Eesti keeles</span></a>
+          <a class="mdl-navigation__link" id="inglise-link" >Inglise keeles</a>
+          <a class="mdl-navigation__link" id="saksa-link" href="#">Saksa keeles</a>
+          <a class="mdl-navigation__link" id="soome-link" href="#">Soome keeles</a>
+          <a class="mdl-navigation__link" id="vene-link" href="#">Vene keeles</a>
+          <!--
+          <div class="tsenter-drawer-separator"></div>
+          <span class="mdl-navigation__link" href="">Teine block</span>
+          <a class="mdl-navigation__link" href="">Esimene</a>
+          <div class="tsenter-drawer-separator"></div>
+          <span class="mdl-navigation__link" href="">Kolmas block</span>
+          <a class="mdl-navigation__link" href="">Esimene</a>
+          <div class="tsenter-drawer-separator"></div>
+          -->
+        </nav>
+      </div>
+
+      <div class="android-content mdl-layout__content">
+        <a name="top"></a>
+
+        <div id="ava"></div>
+
+        <div class="android-be-together-section mdl-typography--text-center">
+          <div class="android-font android-slogan">be together. not the same.</div>
+          <div class="android-font android-sub-slogan">welcome to android... be yourself. do your thing. see what's going on.</div>
+          <div class="android-font android-create-character">
+            <a href=""><img src="images/andy.png"> create your android character</a>
+          </div>
+
+          <a href="#screens">
+            <button class="android-fab mdl-button mdl-button--colored mdl-js-button mdl-button--fab mdl-js-ripple-effect">
+              <i class="material-icons">expand_more</i>
+            </button>
+          </a>
+        </div>
+        <div class="android-screen-section mdl-typography--text-center">
+          <a name="screens"></a>
+          <div class="mdl-typography--display-1-color-contrast">Powering screens of all sizes</div>
+          <div class="android-screens">
+            <div class="android-wear android-screen">
+              <a class="android-image-link" href="">
+                <img class="android-screen-image" src="images/wear-silver-on.png">
+                <img class="android-screen-image" src="images/wear-black-on.png">
+              </a>
+              <a class="android-link mdl-typography--font-regular mdl-typography--text-uppercase" href="">Android Wear</a>
+            </div>
+            <div class="android-phone android-screen">
+              <a class="android-image-link" href="">
+                <img class="android-screen-image" src="images/nexus6-on.jpg">
+              </a>
+              <a class="android-link mdl-typography--font-regular mdl-typography--text-uppercase" href="">Phones</a>
+            </div>
+            <div class="android-tablet android-screen">
+              <a class="android-image-link" href="">
+                <img class="android-screen-image" src="images/nexus9-on.jpg">
+              </a>
+              <a class="android-link mdl-typography--font-regular mdl-typography--text-uppercase" href="">Tablets</a>
+            </div>
+            <div class="android-tv android-screen">
+              <a class="android-image-link" href="">
+                <img class="android-screen-image" src="images/tv-on.jpg">
+              </a>
+              <a class="android-link mdl-typography--font-regular mdl-typography--text-uppercase" href="">Android TV</a>
+            </div>
+            <div class="android-auto android-screen">
+              <a class="android-image-link" href="">
+                <img class="android-screen-image" src="images/auto-on.jpg">
+              </a>
+              <a class="android-link mdl-typography--font-regular mdl-typography--text-uppercase mdl-typography--text-left" href="">Coming Soon: Android Auto</a>
+            </div>
+          </div>
+        </div>
+        <div class="android-wear-section">
+          <div class="android-wear-band">
+            <div class="android-wear-band-text">
+              <div class="mdl-typography--display-2 mdl-typography--font-thin">The best of Google built in</div>
+              <p class="mdl-typography--headline mdl-typography--font-thin">
+                Android works perfectly with your favourite apps like Google Maps,
+                Calendar and YouTube.
+              </p>
+              <p>
+                <a class="mdl-typography--font-regular mdl-typography--text-uppercase android-alt-link" href="">
+                  See what's new in the Play Store&nbsp;<i class="material-icons">chevron_right</i>
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="android-customized-section">
+          <div class="android-customized-section-text">
+            <div class="mdl-typography--font-light mdl-typography--display-1-color-contrast">Customised by you, for you</div>
+            <p class="mdl-typography--font-light">
+              Put the stuff that you care about right on your home screen: the latest news, the weather or a stream of your recent photos.
+              <br>
+              <a href="" class="android-link mdl-typography--font-light">Customise your phone</a>
+            </p>
+          </div>
+          <div class="android-customized-section-image"></div>
+        </div>
+        <div class="android-more-section">
+          <div class="android-section-title mdl-typography--display-1-color-contrast">More from Android</div>
+          <div class="android-card-container mdl-grid">
+            <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
+              <div class="mdl-card__media">
+                <img src="images/more-from-1.png">
+              </div>
+              <div class="mdl-card__title">
+                 <h4 class="mdl-card__title-text">Get going on Android</h4>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <span class="mdl-typography--font-light mdl-typography--subhead">Four tips to make your switch to Android quick and easy</span>
+              </div>
+              <div class="mdl-card__actions">
+                 <a class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" href="">
+                   Make the switch
+                   <i class="material-icons">chevron_right</i>
+                 </a>
+              </div>
+            </div>
+
+            <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
+              <div class="mdl-card__media">
+                <img src="images/more-from-4.png">
+              </div>
+              <div class="mdl-card__title">
+                 <h4 class="mdl-card__title-text">Create your own Android character</h4>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <span class="mdl-typography--font-light mdl-typography--subhead">Turn the little green Android mascot into you, your friends, anyone!</span>
+              </div>
+              <div class="mdl-card__actions">
+                 <a class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" href="">
+                   androidify.com
+                   <i class="material-icons">chevron_right</i>
+                 </a>
+              </div>
+            </div>
+
+            <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
+              <div class="mdl-card__media">
+                <img src="images/more-from-2.png">
+              </div>
+              <div class="mdl-card__title">
+                 <h4 class="mdl-card__title-text">Get a clean customisable home screen</h4>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <span class="mdl-typography--font-light mdl-typography--subhead">A clean, simple, customisable home screen that comes with the power of Google Now: Traffic alerts, weather and much more, just a swipe away.</span>
+              </div>
+              <div class="mdl-card__actions">
+                 <a class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" href="">
+                   Download now
+                   <i class="material-icons">chevron_right</i>
+                 </a>
+              </div>
+            </div>
+
+            <div class="mdl-cell mdl-cell--3-col mdl-cell--4-col-tablet mdl-cell--4-col-phone mdl-card mdl-shadow--3dp">
+              <div class="mdl-card__media">
+                <img src="images/more-from-3.png">
+              </div>
+              <div class="mdl-card__title">
+                 <h4 class="mdl-card__title-text">Millions to choose from</h4>
+              </div>
+              <div class="mdl-card__supporting-text">
+                <span class="mdl-typography--font-light mdl-typography--subhead">Hail a taxi, find a recipe, run through a temple – Google Play has all the apps and games that let you make your Android device uniquely yours.</span>
+              </div>
+              <div class="mdl-card__actions">
+                 <a class="android-link mdl-button mdl-js-button mdl-typography--text-uppercase" href="">
+                   Find apps
+                   <i class="material-icons">chevron_right</i>
+                 </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <footer class="android-footer mdl-mega-footer">
+          <div class="mdl-mega-footer--top-section">
+            <div class="mdl-mega-footer--right-section">
+              <a class="mdl-typography--font-light" href="#top">
+                Ülesse
+                <i class="material-icons">expand_less</i>
+              </a>
+            </div>
+          </div>
+
+        </footer>
+      </div>
+    </div>
+    
+    <script src="js/material.min.js"></script>
+    <script src="js/jquery-1.8.3.min.js"></script>
+ 	<script src="js/jquery.ba-bbq.min.js"></script>
+  	<script src="js/app.js"></script>
+  	<script src="js/otsing.js"></script>
+  	<script src="js/featherlight.js" charset="utf-8"></script>
+  	<script src="js/google-analytics-bundle.js"></script>
+  	<script src="js/ana.js"></script>
+
+  </body>
+</html>
