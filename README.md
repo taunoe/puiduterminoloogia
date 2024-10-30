@@ -1,2 +1,2 @@
-# puiduterminoloogia
+# Puiduterminoloogia
 Puiduterminoloogia sõnastik
