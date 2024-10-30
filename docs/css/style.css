@@ -50,29 +50,27 @@ table {
 }
 /************************ Reset end ***********************************/
 @font-face {
-  font-family: 'Raleway';
-  src: url('../font/Raleway-Regular.woff') format('woff'),
-       url('../font/Raleway-Regular.ttf') format('truetype');
+  font-family: 'DMSans';
+  src: url('../font/DMSans_18pt-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Raleway';
-  src: url('../font/Raleway-Bold.woff') format('woff'),
-       url('../font/Raleway-Bold.ttf') format('truetype');
+  font-family: 'DMSans';
+  src: url('../font/DMSans_18pt-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: bold;
 }
 
 body{
 	background-color: #fff;
-	color: #3a3a3a;
-	font: normal 100% 'Raleway';
+	color: #003539;
+	font: normal 100% 'DMSans';
 }
 
 a{
-	font: bold 0.7533333333333em 'Raleway';
+	font: bold 0.7533333333333em 'DMSans';
 	color: #729bf8;
 	letter-spacing: 0.13em;
 	text-transform: uppercase;
@@ -87,7 +85,7 @@ header{
 	width: 100%;
 	height: 2.8em;
 	padding-top: 1em;
-	background-color: #3d4040;
+	background-color: #003539;
 	-moz-box-shadow: -4px 4px 15px rgba(163, 163, 163, 0.5); 
 	-webkit-box-shadow: -4px 4px 15px rgba(163, 163, 163, 0.5); 
 	box-shadow: -4px 4px 15px rgba(163, 163, 163, 0.5);
@@ -148,10 +146,10 @@ header #searcharea input[type="search"]{
 #keeled li .btn {
   background: #fff;
   -webkit-transition: background-color 0.3s ease-out 0.1s;
-  font-family: Raleway;
+  font-family: DMSans;
   font-weight: bold;
   font-size: 0.6em;
-  color: #474747;
+  color: #003539;
   border: solid #fff 1px;
   border-radius: 10px;
   text-decoration: none;
@@ -160,7 +158,7 @@ header #searcharea input[type="search"]{
 }
 
 #keeled li .btn:hover {
-  background: #ece936;
+  background: #D5EA3B;
   text-decoration: none;
 }
 
@@ -185,7 +183,7 @@ header #searcharea input[type="search"]{
 }
 
 #ava ul li a:hover{
-	background-color: #3d4040;
+	background-color: #003539;
 	color: #fff; 
 }
 
@@ -212,7 +210,7 @@ header #searcharea input[type="search"]{
 }
 
 #otsingutulemused ul li a:hover{
-	background-color: #3d4040;
+	background-color: #003539;
 	color: #fff; 
 }
 
