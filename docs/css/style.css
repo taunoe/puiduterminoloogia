@@ -83,7 +83,7 @@ b{
 
 header{
 	width: 100%;
-	height: 2.8em;
+	height: 4em;
 	padding-top: 1em;
 	background-color: #003539;
 	-moz-box-shadow: -4px 4px 15px rgba(163, 163, 163, 0.5); 
@@ -121,13 +121,13 @@ header #menubutton a{
 header #searcharea{
 	display: inline-block;
 	width:75%;
-	height: 2em;
+	height: 4em;
 	margin:auto;
 }
 
 header #searcharea input[type="search"]{
 	width: 100%;
-	height: 2em;
+	height: 3em;
 	border: 1px solid #fff;
 	outline:none;
 }
