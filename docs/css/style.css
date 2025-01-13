@@ -246,3 +246,25 @@ header #searcharea input[type="search"]{
 .lightbox h2{ 
 	font-size: 2em; 
 }
+
+@media (max-width: 768px) {
+	header {
+	  flex-direction: column;
+	  height: auto;
+	}
+	header #homebutton, header #menubutton {
+	  width: 100%;
+	  text-align: center;
+	}
+	#searcharea {
+	  width: 90%;
+	  margin: 0.5em auto;
+	}
+	#page {
+	  width: 95%;
+	}
+	#pealkiri {
+	  font-size: 1.5em;
+	  text-align: center;
+	}
+  }
