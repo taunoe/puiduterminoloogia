@@ -1,102 +1,91 @@
+<!--
+  Tauno Erik
+  26.10.2025
+//-->
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
   <meta charset="utf-8">
-	<title>Puiduterminoloogia</title>
+  <title>Puiduterminoloogia</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="favicon.svg">
 
-  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-
-  <link rel="manifest" href="/manifest.json">
-  <meta name="theme-color" content="#ffffff">
-
-	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
   <script type="text/javascript" src="js/jquery.ba-bbq.min.js"></script>
   <script type="text/javascript" src="js/app.js"></script>
   <script type="text/javascript" src="js/otsing.js"></script>
-  <script type="text/javascript" src="js/featherlight.js" charset="utf-8"></script>
-  <link type="text/css" rel="stylesheet" href="css/style.css">
-  <link type="text/css" rel="stylesheet" href="css/featherlight.css" title="Featherlight Styles" />
+
+
+  <!--<link type="text/css" rel="stylesheet" href="css/style.css">//-->
+  <link type="text/css" rel="stylesheet" href="css/stiil.css">
 </head>
+
 <body>
+  <div class="container">
 
-  <header>
-    <div id="homebutton">
-      <!--<button id="home"><img src="images/home.png" height="20px"></button>//-->
-      <a href="" id="home"><img src="images/home.png" height="20px"></a>
-    </div>
-    <div id="searcharea">
-      <input type="search" id="search" placeholder="Otsi ..."/>
-    </div>
-    <div id="menubutton">
-      <a href="#" data-featherlight="#about" id="linkteave">Teave</a>
-    </div>
-  </header>
+    <div class="header">
 
-  <div id ="container">
+      <div class="tiitliriba">
+        <div class="site-name" id="homebutton">
+          <a href="" id="home">
+            <h1>Puiduterminoloogia</h1>
+          </a>
+        </div>
+
+        <div class="menu-icon">
+          <img src="images/home.svg">
+        </div>
+      </div>
+
+      <div class="keele-panel">
+          <ul id="keeled">
+            <li class="btn" id="eesti-link">
+              Eesti keeles
+            </li>
+            <li class="btn" id="inglise-link">
+              In English
+            </li>
+            <li class="btn" id="saksa-link">
+              Auf Deutsch
+            </li>
+            <li class="btn" id="soome-link">
+              Suomeksi
+            </li>
+            <li class="btn" id="vene-link">
+              На русском языке
+            </li>
+          </ul>
+        </div>
+
+      <div class="searcharea">
+        <input type="search" id="search" placeholder="Otsi ..." />
+      </div>
+
+    </div>
+
     <div id="page">
       <div id="otsingutulemused"></div>
 
-  <div class="lightbox" id="about">
-    <!--<h2>Teave</h2>//-->
-    	<img src="./images/tsenter_värviline_vertikaalne.png" style="width:200px">
-      <p>
-        <br>
-        Puiduterminoloogia sõnastiku aluseks on <b>TalTechi Puidutehnoloogia labori</b> kogutud:<br>
-        <a href="https://taltech.ee/materjali-ja-keskkonnatehnoloogia-instituut/laborid-ja-teenused/puidutehnoloogia-labor#p29715">
-        puiduterminoloogia.
-        </a>
-        <br>
-        Koostas: <a href="https://tsenter.ee/">tsenter.ee</a>
-      </p>
-  </div><!-- Lightbox end //-->
+      <div class="content">
 
-        <div class="content">
+        <div id="update"></div>
 
-          <div id="update"></div>
+        <div class="loading" style="display:none;">
+          <img src="images/loading.gif" alt="Loading" />
+        </div>
 
-          <div class="loading" style="display:none;">
-            <img src="images/loading.gif" alt="Loading"/>
-          </div>
+        <!-- Avaleht -->
+        <div class="avaleht">
+          <div id="ava">
 
-          <!-- Avaleht -->
-          <div class="avaleht">
-            <h1 id="pealkiri">Puiduterminoloogia</h1>
-            <ul id="keeled">
-              <li>
-                <button class="btn" id="eesti-link">Eesti keeles</button>
-              </li>
-              <li>
-                <button class="btn" id="inglise-link">Inglise keeles</button>
-              </li>
-              <li>
-                <button class="btn" id="saksa-link">Saksa keeles</button>
-              </li>
-              <li>
-                <button class="btn" id="soome-link">Soome keeles</button>
-              </li>
-              <li>
-                <button class="btn" id="vene-link">Vene keeles</button>
-              </li>
-            </ul>
-          <div id="ava"></div><!-- Indexi koht //-->
-          </div><!--end avaleht //-->
+          </div><!-- Indexi koht //-->
+        </div><!--end avaleht //-->
 
-        </div><!--end content //-->
-      </div><!--end page //-->
-    </div> <!--container end //-->
+      </div><!--end content //-->
+    </div><!--end page //-->
+  </div> <!--container end //-->
 
-  </body>
+</body>
+
 </html>

@@ -1,0 +1,174 @@
+/*
+    Tauno Erik
+    26.10.2025
+*/
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+/* Muutujad */
+:root {
+    --kollane: #d5ea3b;
+    --tume: #003539;
+    --punane: #fa5050;
+    --hele: #f1f79f;
+    --valge: #f6f6f6;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: var(--valge);
+    color: var(--tume);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.container {
+    width: 100%;
+}
+
+.header {
+    background-color: var(--kollane);
+}
+
+.tiitliriba {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 6fr 1fr;
+    grid-template-rows: 1fr;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.site-name {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.site-name h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+}
+
+.site-name a {
+    text-decoration: none;
+    color: var(--tume);
+}
+
+.menu-icon {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.keele-panel {
+    position: absolute;
+    top: 0;
+    right: -310px;
+    width: 300px;
+    height: 480px;
+    background-color: var(--tume);
+    color: var(--kollane);
+    font-size: 30px;
+    /*text-transform: uppercase;*/
+    text-align: center;
+    padding-top: 50px;
+    transition: right 0.4s ease-in-out;
+}
+
+.keele-panel ul {
+    list-style: none;
+    padding: 0;
+}
+
+.keele-panel ul li {
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+
+.keele-panel ul li a {
+    text-decoration: none;
+    color: var(--kollane);
+}
+
+.keele-panel.active {
+    right: 0;
+}
+
+.searcharea {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+}
+
+.searcharea input {
+    width: 90%;
+    height: 36px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: var(--tume);
+    border-radius: 16px;
+    border: 2px solid var(--tume);
+    padding-left: 10px;
+}
+
+.searcharea input:focus {
+    outline: none;
+    border: 2px solid var(--punane);
+    box-shadow: 0 0 5px var(--tume);
+}
+
+#otsingutulemused, #ava {
+    width: 100%;
+    text-align: center;
+}
+
+#otsingutulemused ul, #ava ul {
+    list-style: none;
+    padding: 0;
+}
+
+#otsingutulemused ul li, #ava ul li{
+    margin: 23px;
+    
+}
+
+#otsingutulemused ul li a, #ava ul li a {
+    padding: 5px;
+    background-color: var(--hele);
+    border-radius: 15px;
+    color: var(--tume);
+    text-decoration: none;
+}
+
+.item {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.item h1 {
+    text-transform: capitalize;
+}
+
+#tolked ul {
+    list-style: none;
+    padding: 0;
+}
+
+#tolked ul li{
+    margin-bottom: 10px;
+}
+
+.item p{
+    margin-top: 50px;
+}
