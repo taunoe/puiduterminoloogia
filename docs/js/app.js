@@ -44,4 +44,16 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // Keri lehekülje ülesse
+  ava.addEventListener("click", (event) => {
+    const link = event.target.closest("a");
+    if (!link) return; // Clicked something else (not a link)
+    //console.log("------------keri")
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  });
+  /////
+
 });
