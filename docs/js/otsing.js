@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const myExp = new RegExp(searchTerm, "i");
 
     // Toggle visibility
-    document.querySelectorAll("#keeled, #pealkiri, .item, .avaleht")
+    document.querySelectorAll(".item, .avaleht")
       .forEach(el => el.style.display = "none");
     document.querySelector("#otsingutulemused").style.display = "block";
 
