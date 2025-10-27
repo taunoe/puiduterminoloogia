@@ -1,3 +1,7 @@
+/*
+Tauno Erik
+27.10.2025
+*/
 document.addEventListener("DOMContentLoaded", () => {
   // Load search results template (otsingud.html)
   fetch("html/otsingud.html")
@@ -87,7 +91,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
       document.querySelector(".content").appendChild(item);
       cache[hash] = { title: data.eesti, elem: item };
-      document.title = data.eesti;
+      document.title = data.eesti; // Veebilehe title
+
+      document.querySelector('meta[property="og:title"]').setAttribute(
+        "content", data.eesti
+      );
+
+      document.querySelector('meta[property="og:description"]').setAttribute(
+        "content", data.seletuseesti
+      );
 
       document.querySelector("#otsingutulemused").style.display = "none";
     } catch (err) {

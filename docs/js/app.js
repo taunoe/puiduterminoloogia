@@ -48,11 +48,17 @@ document.addEventListener('DOMContentLoaded', () => {
   ava.addEventListener("click", (event) => {
     const link = event.target.closest("a");
     if (!link) return; // Clicked something else (not a link)
-    //console.log("------------keri")
-    window.scrollTo({
+    //console.log(document.scrollingElement);
+    document.scrollingElement.scrollTo({
       top: 0,
       behavior: "smooth"
     });
+
+  ava.innerHTML = data;
+    requestAnimationFrame(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+
   });
   /////
 
