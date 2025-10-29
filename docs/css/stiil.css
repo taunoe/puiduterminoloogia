@@ -15,8 +15,12 @@
     --valge: #f6f6f6;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
+
 body {
-    overflow-x: hidden;
     background-color: var(--valge);
     color: var(--tume);
     margin: 0;
