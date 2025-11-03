@@ -1,6 +1,6 @@
 /*
   Tauno Erik
-  26.10.2025
+  03.11.2025
 */
 document.addEventListener('DOMContentLoaded', () => {
   const homeButton = document.querySelector('#home');
@@ -30,17 +30,20 @@ document.addEventListener('DOMContentLoaded', () => {
   // Näita menüüd
   btn_menu.addEventListener('click', () => {
     keele_panel.classList.toggle('active');
+    keele_panel.style.display = 'block';
   });
   // Väljaspool menüüd klikkides
   document.addEventListener('click', (event) => {
     if (!keele_panel.contains(event.target) && !btn_menu.contains(event.target)) {
         keele_panel.classList.remove('active');
+        keele_panel.style.display = 'none';
     }
   });
   // Menüü lingile klikides
   menu_links.forEach((link) => {
     link.addEventListener('click', () => {
         keele_panel.classList.remove('active');
+        keele_panel.style.display = 'none';
     });
   });
 

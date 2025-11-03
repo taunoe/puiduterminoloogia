@@ -1,6 +1,6 @@
 /*
     Tauno Erik
-    26.10.2025
+    03.11.2025
 */
 
 /* Fonts */
@@ -72,6 +72,7 @@ body {
 }
 
 .keele-panel {
+    display: none;
     position: absolute;
     top: 0;
     right: -310px;
