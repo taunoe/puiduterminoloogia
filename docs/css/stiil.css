@@ -1,6 +1,6 @@
 /*
     Tauno Erik
-    03.11.2025
+    04.11.2025
 */
 
 /* Fonts */
@@ -176,4 +176,18 @@ body {
 
 .item p{
     margin-top: 50px;
+}
+
+@media (min-width: 600px) {
+    .searcharea  {
+       margin: 0 auto;
+       max-width: 1024px;
+    }
+    .searcharea input {
+        width: 100%;
+    }
+    .content {
+        max-width: 1024px;
+        margin: 0 auto;
+    }
 }
